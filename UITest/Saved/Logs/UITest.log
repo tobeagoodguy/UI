@@ -6105,3 +6105,11 @@ Script Stack (0 frames):
 [2020.08.03-07.45.37:642][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.08.03-07.46.59:510][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/Lightcontrol" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/Lightcontrol.uasset" SILENT=true
 [2020.08.03-07.46.59:594][ 83]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/LightcontrolF21EA82846E0A7A1E9D6CCB7D6DD38BC.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/Lightcontrol.uasset'
+[2020.08.03-07.47.28:538][905]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2020.08.03-07.47.29:321][905]LogSlate: Window 'Save Content' being destroyed
+[2020.08.03-07.47.29:341][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeAAndB" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.03-07.47.29:400][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.08.03-07.47.29:734][905]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/ChangeAAndB5E1E0C3245A57DA796F4369A5523BB03.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB.umap'
+[2020.08.03-07.47.29:743][905]LogFileHelpers: Saving map 'ChangeAAndB' took 0.403
+[2020.08.03-07.47.29:775][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prefabs/test" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset" SILENT=true
+[2020.08.03-07.47.29:936][905]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/test2EC2696E443765A11D8BDAB4CF19773F.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset'
