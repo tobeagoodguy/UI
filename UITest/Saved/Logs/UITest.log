@@ -7693,3 +7693,7 @@ Script Stack (0 frames):
 [2020.08.03-09.13.51:405][ 63]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/prefabs/saveproperty.saveproperty
 [2020.08.03-09.14.18:705][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_LightProperty" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_LightProperty.uasset" SILENT=true
 [2020.08.03-09.14.18:782][201]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/UI_LightProperty671C29A140E93A094753B494F26D5F24.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_LightProperty.uasset'
+[2020.08.03-09.14.46:347][195]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.08.03-09.14.47:867][195]LogSlate: Window 'Save Content' being destroyed
+[2020.08.03-09.14.47:888][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prefabs/test" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset" SILENT=true
+[2020.08.03-09.14.48:031][195]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/test6D58586147D97D1CAE08939F95D67EF5.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset'
