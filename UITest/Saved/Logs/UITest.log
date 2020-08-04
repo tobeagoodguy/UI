@@ -4493,3 +4493,74 @@ Make sure 'test_C' has been compiled for  Actorout
 [2020.08.04-08.04.14:998][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
 [2020.08.04-08.04.15:461][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
 [2020.08.04-08.04.15:616][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.08.04-08.11.20:914][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeAAndB" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.04-08.11.20:990][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.08.04-08.11.21:421][ 67]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/ChangeAAndB86FC17DD4A008CB0AE0C84B10C0F5483.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB.umap'
+[2020.08.04-08.11.21:464][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeAAndB_BuiltData" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB_BuiltData.uasset" SILENT=true
+[2020.08.04-08.11.21:499][ 67]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/ChangeAAndB_BuiltData1BDD2E4549628E315756CF858521281D.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB_BuiltData.uasset'
+[2020.08.04-08.15.20:889][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prefabs/test" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset" SILENT=true
+[2020.08.04-08.15.21:067][728]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/test0D4984AD4E1340F5E58F439AA59C186A.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset'
+[2020.08.04-08.15.22:294][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeAAndB" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.04-08.15.22:373][862]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2020.08.04-08.15.22:791][862]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/ChangeAAndB080FCDB8479B7797B9CFEFA40C4350E6.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB.umap'
+[2020.08.04-08.15.22:837][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeAAndB_BuiltData" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB_BuiltData.uasset" SILENT=true
+[2020.08.04-08.15.22:866][862]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/ChangeAAndB_BuiltDataD38BF5CB423EECA133DD92AAC9E19FDF.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB_BuiltData.uasset'
+[2020.08.04-08.15.54:923][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prefabs/test" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset" SILENT=true
+[2020.08.04-08.15.55:095][ 26]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/test0C11A57E46D8CF66EEB4638A4E1A8E12.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset'
+[2020.08.04-08.17.07:786][527]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LightActorABC.LightActorABC
+[2020.08.04-08.17.13:535][ 87]LogSlate: Window 'LightActorABC' being destroyed
+[2020.08.04-08.17.13:551][ 87]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.08.04-08.17.20:899][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prefabs/test" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset" SILENT=true
+[2020.08.04-08.17.21:075][953]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/testEDD78C304F701A2A3453E495A54AD576.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset'
+[2020.08.04-08.17.23:544][141]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2020.08.04-08.24.10:266][579]BlueprintLog: New page: Compile test
+[2020.08.04-08.24.10:787][579]LogUObjectHash: Compacting FUObjectHashTables data took   8.44ms
+[2020.08.04-08.24.54:393][717]BlueprintLog: New page: Compile test
+[2020.08.04-08.24.54:900][717]LogUObjectHash: Compacting FUObjectHashTables data took   8.75ms
+[2020.08.04-08.25.18:345][496]BlueprintLog: New page: Compile test
+[2020.08.04-08.25.18:851][496]LogUObjectHash: Compacting FUObjectHashTables data took   8.91ms
+[2020.08.04-08.26.22:384][ 10]BlueprintLog: New page: Compile test
+[2020.08.04-08.26.22:898][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   8.74ms
+[2020.08.04-08.26.24:003][130]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.08.04-08.26.24:035][130]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel' has LevelScriptBlueprint '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel.ChangeAAndB' with GeneratedClass '/Game/ChangeAAndB.ChangeAAndB_C' with ClassGeneratedBy '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel.ChangeAAndB'
+[2020.08.04-08.26.24:035][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.04-08.26.24:035][130]PIE: New page: PIE session: ChangeAAndB (Aug 5, 2020, 12:26:24 AM)
+[2020.08.04-08.26.24:036][130]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ChangeAAndB
+[2020.08.04-08.26.24:040][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004034s)
+[2020.08.04-08.26.24:041][130]LogAIModule: Creating AISystem for world ChangeAAndB
+[2020.08.04-08.26.24:041][130]LogPlayLevel: PIE: World Init took: (0.001680s)
+[2020.08.04-08.26.24:042][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ChangeAAndB.ChangeAAndB to /Game/UEDPIE_0_ChangeAAndB.ChangeAAndB (0.005877s)
+[2020.08.04-08.26.24:120][130]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2020.08.04-08.26.24:129][130]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.08.04-08.26.24:149][130]LogInit: FAudioDevice initialized.
+[2020.08.04-08.26.24:159][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.04-08.26.24:159][130]LogLoad: Game class is 'GameModeBase'
+[2020.08.04-08.26.24:161][130]LogWorld: Bringing World /Game/UEDPIE_0_ChangeAAndB.ChangeAAndB up for play (max tick rate 0) at 2020.08.04-16.26.24
+[2020.08.04-08.26.24:161][130]LogWorld: Bringing up level for play took: 0.001425
+[2020.08.04-08.26.24:162][130]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2020.08.04-08.26.24:164][130]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.08.04-08.26.24:169][130]PIE: Play in editor start time for /Game/UEDPIE_0_ChangeAAndB -0.835
+[2020.08.04-08.26.24:170][130]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel' has LevelScriptBlueprint '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel.ChangeAAndB' with GeneratedClass '/Game/ChangeAAndB.ChangeAAndB_C' with ClassGeneratedBy '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel.ChangeAAndB'
+[2020.08.04-08.26.29:480][618]LogBlueprintUserMessages: [test_2] Light_2
+[2020.08.04-08.26.30:262][689]LogBlueprintUserMessages: [test_2] Light_3
+[2020.08.04-08.26.31:244][778]LogBlueprintUserMessages: [test_2] Light_4
+[2020.08.04-08.26.32:332][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel' has LevelScriptBlueprint '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel.ChangeAAndB' with GeneratedClass '/Game/ChangeAAndB.ChangeAAndB_C' with ClassGeneratedBy '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel.ChangeAAndB'
+[2020.08.04-08.26.32:333][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.04-08.26.32:333][877]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ChangeAAndB
+[2020.08.04-08.26.32:354][877]LogSlate: Window 'UITest Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.08.04-08.26.32:360][877]LogWorld: UWorld::CleanupWorld for ChangeAAndB, bSessionEnded=true, bCleanupResources=true
+[2020.08.04-08.26.32:395][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.04-08.26.32:395][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel' has LevelScriptBlueprint '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel.ChangeAAndB' with GeneratedClass '/Game/ChangeAAndB.ChangeAAndB_C' with ClassGeneratedBy '/Game/ChangeAAndB.ChangeAAndB:PersistentLevel.ChangeAAndB'
+[2020.08.04-08.26.32:487][877]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.08.04-08.26.32:548][878]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2020.08.04-08.26.37:950][441]BlueprintLog: New page: Compile test
+[2020.08.04-08.26.38:460][441]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2020.08.04-08.26.38:984][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prefabs/test" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset" SILENT=true
+[2020.08.04-08.26.39:177][491]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/testCE2E9B9C4C39F65DF7533E8EF7DDB201.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset'
+[2020.08.04-08.26.39:663][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prefabs/test" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset" SILENT=true
+[2020.08.04-08.26.39:838][544]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/test28149FFA438BF56A63A2ED962443AE74.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/prefabs/test.uasset'
+[2020.08.04-08.27.11:923][312]LogUObjectHash: Compacting FUObjectHashTables data took   9.26ms
+[2020.08.04-08.27.11:924][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeAAndB" FILE="E:/cyj/ue4test/yogurt.github/UITest/Saved/Autosaves/Game/ChangeAAndB_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.04-08.27.12:524][312]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/ChangeAAndB_Auto8801566944B30E3FDCDE9229CE3AFFD9A.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Saved/Autosaves/Game/ChangeAAndB_Auto8.umap'
+[2020.08.04-08.27.12:532][312]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ChangeAAndB' took 0.736
+[2020.08.04-08.27.12:532][312]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.736
