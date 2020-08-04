@@ -4564,3 +4564,13 @@ Make sure 'test_C' has been compiled for  Actorout
 [2020.08.04-08.27.12:524][312]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/ChangeAAndB_Auto8801566944B30E3FDCDE9229CE3AFFD9A.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Saved/Autosaves/Game/ChangeAAndB_Auto8.umap'
 [2020.08.04-08.27.12:532][312]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ChangeAAndB' took 0.736
 [2020.08.04-08.27.12:532][312]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.736
+[2020.08.04-08.28.09:917][600]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2020.08.04-08.28.11:108][600]LogSlate: Window 'Save Content' being destroyed
+[2020.08.04-08.28.11:129][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeAAndB" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.04-08.28.11:206][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.08.04-08.28.11:645][600]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/ChangeAAndB3951E1F74208C4E3CC02EAB128C2A4A4.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ChangeAAndB.umap'
+[2020.08.04-08.28.11:688][600]LogFileHelpers: Saving map 'ChangeAAndB' took 0.560
+[2020.08.04-08.29.55:771][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2020.08.04-08.29.56:235][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.08.04-08.29.56:573][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.08.04-08.29.56:800][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
