@@ -1,0 +1,1088 @@
+﻿Log file open, 09/09/20 11:24:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UITest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198003
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU:       Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz, GPU: AMD FirePro W7000
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.09-03.24.54:942][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.09-03.24.54:942][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.09-03.24.54:943][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.09-03.24.54:943][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.09-03.24.54:943][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.09-03.24.54:948][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:948][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.09-03.24.54:948][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.09-03.24.54:949][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.09-03.24.54:950][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:950][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.09-03.24.54:951][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.09-03.24.54:951][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.09-03.24.54:951][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.09-03.24.54:965][  0]LogHAL: Display: Platform has ~ 32 GB [34279550976 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.09-03.24.54:965][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.09-03.24.54:965][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:965][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.09-03.24.54:965][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.09.09-03.24.54:965][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.09.09-03.24.54:966][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.09-03.24.54:967][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.09-03.24.54:968][  0]LogInit: Computer: DESKTOP-EFCCDAE
+[2020.09.09-03.24.54:968][  0]LogInit: User: GZ12
+[2020.09.09-03.24.54:968][  0]LogInit: CPU Page size=4096, Cores=16
+[2020.09.09-03.24.54:968][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.09-03.24.54:968][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.09.09-03.24.54:968][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.09-03.24.54:968][  0]LogMemory: Process Physical Memory: 105.46 MB used, 105.46 MB peak
+[2020.09.09-03.24.54:968][  0]LogMemory: Process Virtual Memory: 96.71 MB used, 96.71 MB peak
+[2020.09.09-03.24.54:968][  0]LogMemory: Physical Memory: 9241.78 MB used,  23449.75 MB free, 32691.53 MB total
+[2020.09.09-03.24.54:968][  0]LogMemory: Virtual Memory: 4746.97 MB used,  134212984.00 MB free, 134217728.00 MB total
+[2020.09.09-03.24.54:972][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.09-03.24.55:235][  0]LogInit: Overriding language with editor language configuration option (zh-Hans).
+[2020.09.09-03.24.55:235][  0]LogInit: Overriding locale with editor locale configuration option (zh-Hans).
+[2020.09.09-03.24.55:439][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.09.09-03.24.55:439][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.09.09-03.24.55:440][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.09.09-03.24.55:440][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.09.09-03.24.55:440][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.09.09-03.24.55:441][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.09.09-03.24.55:441][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.09.09-03.24.55:442][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.09.09-03.24.55:442][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.09.09-03.24.55:442][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.09.09-03.24.55:443][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.09.09-03.24.55:502][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.09-03.24.55:615][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.09-03.24.55:615][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.09-03.24.59:831][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.09.09-03.24.59:831][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.09-03.25.00:118][  0]LogD3D11RHI:    0. 'AMD FirePro W7000' (Feature Level 11_0)
+[2020.09.09-03.25.00:118][  0]LogD3D11RHI:       4075/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.09.09-03.25.00:121][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.09-03.25.00:121][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.09-03.25.00:121][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.09-03.25.00:130][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.09-03.25.00:130][  0]LogD3D11RHI:     GPU DeviceId: 0x6808 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.09-03.25.00:130][  0]LogWindows: EnumDisplayDevices:
+[2020.09.09-03.25.00:131][  0]LogWindows:    0. 'AMD FirePro W7000' (P:1 D:1)
+[2020.09.09-03.25.00:131][  0]LogWindows:    1. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.09-03.25.00:131][  0]LogWindows:    2. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.09-03.25.00:132][  0]LogWindows:    3. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.09-03.25.00:132][  0]LogWindows:    4. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.09-03.25.00:133][  0]LogWindows:    5. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.09-03.25.00:133][  0]LogWindows:    6. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.09-03.25.00:134][  0]LogWindows:    7. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.09-03.25.00:134][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.09.09-03.25.00:134][  0]LogD3D11RHI:     Adapter Name: AMD FirePro W7000
+[2020.09.09-03.25.00:134][  0]LogD3D11RHI:   Driver Version: 27.20.1023.1001 (internal:27.20.1023.1001, unified:27.20.1023.1001)
+[2020.09.09-03.25.00:134][  0]LogD3D11RHI:      Driver Date: 6-10-2020
+[2020.09.09-03.25.00:134][  0]LogRHI: Texture pool is 2853 MB (70% of 4075 MB)
+[2020.09.09-03.25.00:390][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.09-03.25.00:435][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.09.09-03.25.00:851][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.09.09-03.25.00:863][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.09.09-03.25.00:874][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.09.09-03.25.00:887][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.09.09-03.25.00:909][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.09.09-03.25.00:921][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.09.09-03.25.00:933][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.09-03.25.00:944][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.09.09-03.25.00:950][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.09.09-03.25.01:016][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.09.09-03.25.01:018][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.09.09-03.25.01:066][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.09.09-03.25.01:066][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.09.09-03.25.01:087][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.09.09-03.25.01:087][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.09.09-03.25.01:097][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.09.09-03.25.01:107][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.09-03.25.01:117][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.09.09-03.25.01:146][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.09.09-03.25.01:187][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.09.09-03.25.01:188][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.09.09-03.25.01:188][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.09-03.25.01:257][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.09-03.25.01:368][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (E:/cyj/ue4test/yogurt.github/UITest/Intermediate/Shaders/WorkingDirectory/14364/).
+[2020.09.09-03.25.01:368][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/GZ-12/AppData/Local/Temp/UnrealShaderWorkingDir/D6BBEAFC471D38A049A3118FEB4AB355/'.
+[2020.09.09-03.25.01:371][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.09-03.25.01:372][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.09-03.25.01:372][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.09-03.25.04:120][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.09-03.25.04:201][  0]LogDerivedDataCache: Loaded boot cache 0.08s 73MB C:/Users/GZ-12/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.09-03.25.04:202][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/GZ-12/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.09.09-03.25.04:202][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/cyj/ue4test/yogurt.github/UITest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.09-03.25.04:202][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.09-03.25.04:202][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/cyj/ue4test/yogurt.github/UITest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.09-03.25.04:202][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.09-03.25.04:226][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.09-03.25.04:226][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.09-03.25.04:226][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.09-03.25.04:228][  0]LogDerivedDataCache: Using Local data cache path C:/Users/GZ-12/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.09-03.25.04:228][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.09-03.25.04:228][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.09-03.25.04:261][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.09-03.25.04:265][  0]LogSlate: Using FreeType 2.6.0
+[2020.09.09-03.25.04:276][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.09-03.25.04:553][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2020.09.09-03.25.05:000][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.09-03.25.05:144][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.09-03.25.05:144][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.09-03.25.05:144][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.09-03.25.05:144][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.09-03.25.05:144][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.09-03.25.05:312][  0]LogNetVersion: UITest 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2202078738)
+[2020.09.09-03.25.06:485][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.097144 seconds
+[2020.09.09-03.25.06:491][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.09.09-03.25.06:491][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.09.09-03.25.06:492][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.09-03.25.09:484][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.09-03.25.09:487][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.09-03.25.09:552][  0]SourceControl: 源码管理已禁用
+[2020.09.09-03.25.09:552][  0]SourceControl: 源码管理已禁用
+[2020.09.09-03.25.09:554][  0]SourceControl: 源码管理已禁用
+[2020.09.09-03.25.09:555][  0]SourceControl: 源码管理已禁用
+[2020.09.09-03.25.09:663][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.09-03.25.09:827][  0]LogOcInput: OculusInput pre-init called
+[2020.09.09-03.25.09:836][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.09-03.25.09:837][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.09-03.25.09:930][  0]LogEngine: Initializing Engine...
+[2020.09.09-03.25.09:994][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.09.09-03.25.09:996][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.09-03.25.10:307][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.09-03.25.10:333][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.09-03.25.10:378][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.09-03.25.10:412][  0]LogInit: FAudioDevice initialized.
+[2020.09.09-03.25.10:412][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.09-03.25.10:550][  0]LogDerivedDataCache: Saved boot cache 0.14s 73MB C:/Users/GZ-12/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.09-03.25.10:557][  0]LogInit: Texture streaming: Enabled
+[2020.09.09-03.25.10:581][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.09-03.25.10:581][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.09-03.25.10:583][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.09-03.25.10:685][  0]LogInit: Transaction tracking system initialized
+[2020.09.09-03.25.10:728][  0]BlueprintLog: New page: 编辑器加载
+[2020.09.09-03.25.10:827][  0]LocalizationService: 本地化服务已禁用
+[2020.09.09-03.25.11:758][  0]LogFileCache: Scanning file cache for directory 'E:/cyj/ue4test/yogurt.github/UITest/Content/' took 0.00s
+[2020.09.09-03.25.11:758][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.09-03.25.11:758][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.09-03.25.11:987][  0]SourceControl: 源码管理已禁用
+[2020.09.09-03.25.11:987][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.09-03.25.11:988][  0]LightingResults: New page: 光照构建
+[2020.09.09-03.25.11:992][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-03.25.11:992][  0]MapCheck: New page: 地图检测
+[2020.09.09-03.25.11:992][  0]LightingResults: New page: 光照构建
+[2020.09.09-03.25.12:061][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.09.09-03.25.12:173][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.09.09-03.25.12:180][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.09-03.25.12:249][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.09.09-03.25.12:250][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.09-03.25.12:250][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.179毫秒。
+[2020.09.09-03.25.12:250][  0]LogFileHelpers: Loading map 'Template_Default' took 0.263
+[2020.09.09-03.25.12:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-03.25.12:412][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-03.25.12:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-03.25.12:431][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-03.25.12:440][  0]LogCollectionManager: Loaded 0 collections in 0.001964 seconds
+[2020.09.09-03.25.12:449][  0]LogFileCache: Scanning file cache for directory 'E:/cyj/ue4test/yogurt.github/UITest/Saved/Collections/' took 0.00s
+[2020.09.09-03.25.12:449][  0]LogFileCache: Scanning file cache for directory 'E:/cyj/ue4test/yogurt.github/UITest/Content/Developers/GZ12/Collections/' took 0.00s
+[2020.09.09-03.25.12:449][  0]LogFileCache: Scanning file cache for directory 'E:/cyj/ue4test/yogurt.github/UITest/Content/Collections/' took 0.00s
+[2020.09.09-03.25.12:449][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.09.09-03.25.12:461][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2863 classes and 680 folders.
+[2020.09.09-03.25.12:470][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.09-03.25.12:529][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.09-03.25.12:536][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.09.09-03.25.12:623][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.09-03.25.12:626][  0]LogSlate: Took 0.002366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.09.09-03.25.12:627][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.09-03.25.12:631][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.09-03.25.12:690][  0]LogRenderer: Reallocating scene render targets to support 1108x576 Format 9 NumSamples 1 (Frame:1).
+[2020.09.09-03.25.12:836][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.09-03.25.12:836][  0]LogLoad: (Engine Initialization) Total time: 22.63 seconds
+[2020.09.09-03.25.12:836][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.09-03.25.12:900][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.09.09-03.25.12:936][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.09-03.25.12:980][  1]LogAssetRegistry: Asset discovery search completed in 8.4284 seconds
+[2020.09.09-03.25.12:984][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2020.09.09-03.25.12:984][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2020.09.09-03.25.15:320][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-03.25.30:022][720]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.09-03.25.30:668][720]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.09-03.25.30:684][720]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/WindowsOptions.WindowsOptions
+[2020.09.09-03.25.30:752][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.09.09-03.25.30:753][720]Cmd: MAP LOAD FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/Maps/WindowsOptions.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.09-03.25.30:753][720]LightingResults: New page: 光照构建
+[2020.09.09-03.25.30:754][720]LoadErrors: New page: 正在加载地图：WindowsOptions.umap
+[2020.09.09-03.25.30:755][720]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-03.25.30:755][720]MapCheck: New page: 地图检测
+[2020.09.09-03.25.30:755][720]LightingResults: New page: 光照构建
+[2020.09.09-03.25.30:822][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.09.09-03.25.30:935][720]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.09-03.25.31:002][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.09.09-03.25.31:057][720]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.09-03.25.31:057][720]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.096毫秒。
+[2020.09.09-03.25.31:057][720]LogFileHelpers: Loading map 'WindowsOptions' took 0.305
+[2020.09.09-03.25.32:741][905]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.09.09-03.25.32:774][905]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-03.25.32:774][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.09-03.25.32:774][905]PIE: New page: PIE会话：WindowsOptions（2020年9月9日 下午7:25:32）
+[2020.09.09-03.25.32:776][905]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.09-03.25.32:778][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.09-03.25.32:781][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003251s)
+[2020.09.09-03.25.32:783][905]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.09-03.25.32:783][905]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2020.09.09-03.25.32:783][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.005059s)
+[2020.09.09-03.25.32:848][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.09.09-03.25.32:871][905]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.09-03.25.32:896][905]LogInit: FAudioDevice initialized.
+[2020.09.09-03.25.32:931][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-03.25.32:933][905]LogLoad: Game class is 'GameModeBase'
+[2020.09.09-03.25.32:936][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.09-11.25.32
+[2020.09.09-03.25.32:937][905]LogWorld: Bringing up level for play took: 0.001784
+[2020.09.09-03.25.32:937][905]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.09.09-03.25.32:954][905]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.09.09-03.25.32:976][905]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间0.584
+[2020.09.09-03.25.32:976][905]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-03.25.33:056][906]LogRenderer: Reallocating scene render targets to support 1280x720 Format 9 NumSamples 1 (Frame:1).
+[2020.09.09-03.25.44:486][267]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.09-03.25.44:493][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-03.25.44:493][267]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.09-03.25.44:493][267]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-03.25.44:499][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.09-03.25.44:499][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-03.25.44:577][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.09.09-03.25.44:602][268]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.09.09-03.25.52:716][235]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.09.09-03.25.52:746][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-03.25.52:746][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.09-03.25.52:746][235]PIE: New page: PIE会话：WindowsOptions（2020年9月9日 下午7:25:52）
+[2020.09.09-03.25.52:747][235]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.09-03.25.52:750][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003224s)
+[2020.09.09-03.25.52:751][235]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.09-03.25.52:751][235]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2020.09.09-03.25.52:751][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.004816s)
+[2020.09.09-03.25.52:816][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.09.09-03.25.52:836][235]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.09-03.25.52:860][235]LogInit: FAudioDevice initialized.
+[2020.09.09-03.25.52:872][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-03.25.52:872][235]LogLoad: Game class is 'GameModeBase'
+[2020.09.09-03.25.52:874][235]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.09-11.25.52
+[2020.09.09-03.25.52:874][235]LogWorld: Bringing up level for play took: 0.001622
+[2020.09.09-03.25.52:875][235]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.09.09-03.25.52:890][235]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间0.499
+[2020.09.09-03.25.52:891][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-03.26.12:842][619]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={99423258-482B-E4F2-4823-6DAFB6A31DF4}
+[2020.09.09-03.26.36:060][400]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.09-03.26.36:066][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-03.26.36:066][400]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.09-03.26.36:066][400]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-03.26.36:078][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.09-03.26.36:078][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-03.26.36:156][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.09.09-03.26.36:178][401]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.09.09-04.41.26:064][748]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.09.09-04.41.26:096][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-04.41.26:096][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.09-04.41.26:096][748]PIE: New page: PIE会话：WindowsOptions（2020年9月9日 下午8:41:26）
+[2020.09.09-04.41.26:097][748]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.09-04.41.26:101][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004297s)
+[2020.09.09-04.41.26:103][748]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.09-04.41.26:103][748]LogPlayLevel: PIE: World Init took: (0.002166s)
+[2020.09.09-04.41.26:103][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.006658s)
+[2020.09.09-04.41.26:167][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.09.09-04.41.26:189][748]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.09-04.41.26:215][748]LogInit: FAudioDevice initialized.
+[2020.09.09-04.41.26:227][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-04.41.26:228][748]LogLoad: Game class is 'GameModeBase'
+[2020.09.09-04.41.26:230][748]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.09-12.41.26
+[2020.09.09-04.41.26:230][748]LogWorld: Bringing up level for play took: 0.001933
+[2020.09.09-04.41.26:231][748]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.09.09-04.41.26:247][748]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间-0.144
+[2020.09.09-04.41.26:248][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-04.41.34:839][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-04.41.56:762][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-04.42.13:378][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-04.42.40:895][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-04.42.41:000][682]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.09-04.42.41:006][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-04.42.41:006][682]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.09-04.42.41:006][682]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-04.42.41:017][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.09-04.42.41:017][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.09-04.42.41:095][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.09.09-04.42.41:120][683]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.09.09-04.44.38:246][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-04.57.17:012][101]LogAIModule: Creating AISystem for world WorldOutliner
+[2020.09.09-04.57.17:020][101]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/WorldOutliner.WorldOutliner
+[2020.09.09-04.57.17:087][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.09.09-04.57.17:089][101]Cmd: MAP LOAD FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/Maps/WorldOutliner.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.09-04.57.17:089][101]LightingResults: New page: 光照构建
+[2020.09.09-04.57.17:090][101]LoadErrors: New page: 正在加载地图：WorldOutliner.umap
+[2020.09.09-04.57.17:091][101]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-04.57.17:091][101]MapCheck: New page: 地图检测
+[2020.09.09-04.57.17:091][101]LightingResults: New page: 光照构建
+[2020.09.09-04.57.17:158][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.09.09-04.57.17:283][101]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.09-04.57.17:346][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.09.09-04.57.17:406][101]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.09-04.57.17:406][101]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.173毫秒。
+[2020.09.09-04.57.17:406][101]LogFileHelpers: Loading map 'WorldOutliner' took 0.319
+[2020.09.09-05.05.01:399][  3]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui/Ui_CreateActors/WBP_AddObjectButton.WBP_AddObjectButton
+[2020.09.09-05.05.01:774][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.09.09-05.05.03:678][  3]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.09-05.05.06:069][281]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui/Ui_CreateActors/WBP_AddObjectsToTheScence.WBP_AddObjectsToTheScence
+[2020.09.09-05.05.59:418][512]LogAIModule: Creating AISystem for world WorldOutlinerAndAddActors
+[2020.09.09-05.05.59:424][512]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors
+[2020.09.09-05.05.59:528][512]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2020.09.09-05.05.59:530][512]Cmd: MAP LOAD FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/Maps/WorldOutlinerAndAddActors.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.09-05.05.59:530][512]LightingResults: New page: 光照构建
+[2020.09.09-05.05.59:531][512]LoadErrors: New page: 正在加载地图：WorldOutlinerAndAddActors.umap
+[2020.09.09-05.05.59:531][512]LogWorld: UWorld::CleanupWorld for WorldOutliner, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-05.05.59:532][512]MapCheck: New page: 地图检测
+[2020.09.09-05.05.59:532][512]LightingResults: New page: 光照构建
+[2020.09.09-05.05.59:599][512]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2020.09.09-05.05.59:804][512]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.09-05.05.59:871][512]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.09.09-05.05.59:926][512]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.09-05.05.59:927][512]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.101毫秒。
+[2020.09.09-05.05.59:927][512]LogFileHelpers: Loading map 'WorldOutlinerAndAddActors' took 0.398
+[2020.09.09-05.06.01:804][725]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.09.09-05.06.01:845][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.06.01:845][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.09-05.06.01:845][725]PIE: New page: PIE会话：WorldOutlinerAndAddActors（2020年9月9日 下午9:06:01）
+[2020.09.09-05.06.01:845][725]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors
+[2020.09.09-05.06.01:849][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003542s)
+[2020.09.09-05.06.01:850][725]LogAIModule: Creating AISystem for world WorldOutlinerAndAddActors
+[2020.09.09-05.06.01:850][725]LogPlayLevel: PIE: World Init took: (0.001369s)
+[2020.09.09-05.06.01:851][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors to /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors.WorldOutlinerAndAddActors (0.005196s)
+[2020.09.09-05.06.01:921][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.09.09-05.06.01:943][725]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.09-05.06.01:968][725]LogInit: FAudioDevice initialized.
+[2020.09.09-05.06.01:980][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-05.06.01:980][725]LogLoad: Game class is 'GameModeBase'
+[2020.09.09-05.06.01:982][725]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors.WorldOutlinerAndAddActors up for play (max tick rate 0) at 2020.09.09-13.06.01
+[2020.09.09-05.06.01:982][725]LogWorld: Bringing up level for play took: 0.001619
+[2020.09.09-05.06.01:982][725]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.09.09-05.06.01:996][725]PIE: /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors在编辑器中运行的起始时间-0.395
+[2020.09.09-05.06.01:997][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.06.08:229][457]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.09-05.06.08:235][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.06.08:235][457]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors
+[2020.09.09-05.06.08:235][457]LogWorld: UWorld::CleanupWorld for WorldOutlinerAndAddActors, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-05.06.08:244][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.09-05.06.08:245][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.06.08:319][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.09.09-05.06.08:347][458]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.09.09-05.06.16:425][410]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui/UI_WorldOutliner/WBP_MoveButton.WBP_MoveButton
+[2020.09.09-05.06.17:000][410]LogSlate: Last resort fallback font was requested. Font: '/Engine/EngineFonts/Faces/RobotoBold.RobotoBold', Character: '文 (U+6587)'
+[2020.09.09-05.06.17:033][410]LogSlate: Took 0.030658 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.09.09-05.07.29:025][967]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ui/ButtonFrame.ButtonFrame
+[2020.09.09-05.07.29:042][967]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.09.09-05.07.39:741][766]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ui/ButtonFrame02.ButtonFrame02
+[2020.09.09-05.07.41:852][997]LogSlate: Window 'ButtonFrame' being destroyed
+[2020.09.09-05.07.41:857][997]LogSlate: Window 'ButtonFrame' being destroyed
+[2020.09.09-05.07.55:947][509]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.09.09-05.07.55:998][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.07.55:999][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.09-05.07.55:999][509]PIE: New page: PIE会话：WorldOutlinerAndAddActors（2020年9月9日 下午9:07:55）
+[2020.09.09-05.07.55:999][509]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors
+[2020.09.09-05.07.56:007][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008294s)
+[2020.09.09-05.07.56:009][509]LogAIModule: Creating AISystem for world WorldOutlinerAndAddActors
+[2020.09.09-05.07.56:009][509]LogPlayLevel: PIE: World Init took: (0.001615s)
+[2020.09.09-05.07.56:009][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors to /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors.WorldOutlinerAndAddActors (0.010067s)
+[2020.09.09-05.07.56:123][509]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2020.09.09-05.07.56:148][509]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.09-05.07.56:172][509]LogInit: FAudioDevice initialized.
+[2020.09.09-05.07.56:182][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-05.07.56:183][509]LogLoad: Game class is 'GameModeBase'
+[2020.09.09-05.07.56:184][509]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors.WorldOutlinerAndAddActors up for play (max tick rate 0) at 2020.09.09-13.07.56
+[2020.09.09-05.07.56:185][509]LogWorld: Bringing up level for play took: 0.001830
+[2020.09.09-05.07.56:185][509]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.09.09-05.07.56:199][509]PIE: /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors在编辑器中运行的起始时间-0.193
+[2020.09.09-05.07.56:199][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.08.11:360][313]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 9 NumSamples 1 (Frame:1805).
+[2020.09.09-05.08.52:480][886]Set new viewmode: Lit
+[2020.09.09-05.08.53:425][980]Set new viewmode: ShaderComplexity
+[2020.09.09-05.08.53:448][981]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.09-05.08.53:448][981]LogMaterial: Display: Missing cached shader map for material DebugViewMode ComplexityAccumulate, compiling. Is special engine material.
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 57
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 56
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 55
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 54
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 53
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 52
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 51
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 50
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 49
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 48
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 47
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 46
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 45
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 44
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 43
+[2020.09.09-05.08.53:499][982]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 42
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 41
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 40
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 39
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 38
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 37
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 36
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 35
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 34
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 33
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 32
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 31
+[2020.09.09-05.08.53:500][982]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 30
+[2020.09.09-05.08.54:248][ 26]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 29
+[2020.09.09-05.08.54:316][ 27]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 28
+[2020.09.09-05.08.54:316][ 27]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 27
+[2020.09.09-05.08.54:316][ 27]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 26
+[2020.09.09-05.08.54:316][ 27]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 25
+[2020.09.09-05.08.54:441][ 31]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 24
+[2020.09.09-05.08.54:441][ 31]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 23
+[2020.09.09-05.08.54:442][ 31]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 22
+[2020.09.09-05.08.54:442][ 31]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 21
+[2020.09.09-05.08.54:442][ 31]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 20
+[2020.09.09-05.08.54:442][ 31]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 19
+[2020.09.09-05.08.54:442][ 31]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 18
+[2020.09.09-05.08.54:625][ 37]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 17
+[2020.09.09-05.08.54:626][ 37]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 16
+[2020.09.09-05.08.54:626][ 37]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 15
+[2020.09.09-05.08.54:626][ 37]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 14
+[2020.09.09-05.08.54:784][ 40]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 13
+[2020.09.09-05.08.54:785][ 40]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 12
+[2020.09.09-05.08.54:785][ 40]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 11
+[2020.09.09-05.08.54:845][ 41]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 10
+[2020.09.09-05.08.54:845][ 41]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 9
+[2020.09.09-05.08.54:845][ 41]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 8
+[2020.09.09-05.08.54:845][ 41]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 7
+[2020.09.09-05.08.54:847][ 41]Set new viewmode: Unlit
+[2020.09.09-05.08.54:927][ 43]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 6
+[2020.09.09-05.08.54:927][ 43]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 5
+[2020.09.09-05.08.54:927][ 43]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 4
+[2020.09.09-05.08.54:927][ 43]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 3
+[2020.09.09-05.08.54:927][ 43]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 2
+[2020.09.09-05.08.54:927][ 43]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 1
+[2020.09.09-05.08.55:445][ 75]Set new viewmode: Wireframe
+[2020.09.09-05.09.06:216][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-05.09.13:201][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-05.09.25:319][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-05.09.27:473][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-05.09.40:543][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-05.09.47:783][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-05.09.53:905][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-05.10.40:896][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.09-05.10.41:019][601]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.09-05.10.41:027][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.10.41:027][601]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors
+[2020.09.09-05.10.41:028][601]LogWorld: UWorld::CleanupWorld for WorldOutlinerAndAddActors, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-05.10.41:040][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.09-05.10.41:040][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.10.41:137][601]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2020.09.09-05.10.41:185][602]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.09.09-05.12.37:175][309]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui/WBP_Settings.WBP_Settings
+[2020.09.09-05.15.29:259][672]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.09.09-05.15.29:327][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.15.29:327][672]BlueprintLog: New page: 运行前自动重新编译
+[2020.09.09-05.15.29:330][672]LogPlayLevel: [PlayLevel] Compiling WBP_Settings before play...
+[2020.09.09-05.15.29:876][672]LogUObjectHash: Compacting FUObjectHashTables data took   8.46ms
+[2020.09.09-05.15.29:876][672]LogPlayLevel: PlayLevel: Blueprint regeneration took 548 ms (1 blueprints)
+[2020.09.09-05.15.29:876][672]PIE: New page: PIE会话：WorldOutlinerAndAddActors（2020年9月9日 下午9:15:29）
+[2020.09.09-05.15.29:880][672]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors
+[2020.09.09-05.15.29:885][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004819s)
+[2020.09.09-05.15.29:886][672]LogAIModule: Creating AISystem for world WorldOutlinerAndAddActors
+[2020.09.09-05.15.29:886][672]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2020.09.09-05.15.29:886][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors to /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors.WorldOutlinerAndAddActors (0.006536s)
+[2020.09.09-05.15.29:958][672]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.09.09-05.15.29:980][672]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.09-05.15.30:004][672]LogInit: FAudioDevice initialized.
+[2020.09.09-05.15.30:016][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-05.15.30:016][672]LogLoad: Game class is 'GameModeBase'
+[2020.09.09-05.15.30:018][672]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors.WorldOutlinerAndAddActors up for play (max tick rate 0) at 2020.09.09-13.15.30
+[2020.09.09-05.15.30:019][672]LogWorld: Bringing up level for play took: 0.001748
+[2020.09.09-05.15.30:019][672]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.09.09-05.15.30:020][672]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.09-05.15.30:032][672]PIE: /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors在编辑器中运行的起始时间1.64
+[2020.09.09-05.15.30:032][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.15.32:013][859]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.09-05.15.32:020][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.15.32:021][859]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WorldOutlinerAndAddActors
+[2020.09.09-05.15.32:021][859]LogWorld: UWorld::CleanupWorld for WorldOutlinerAndAddActors, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-05.15.32:027][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.09-05.15.32:027][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors' with GeneratedClass '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors_C' with ClassGeneratedBy '/Game/Maps/WorldOutlinerAndAddActors.WorldOutlinerAndAddActors:PersistentLevel.WorldOutlinerAndAddActors'
+[2020.09.09-05.15.32:117][859]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2020.09.09-05.15.32:275][860]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.09.09-05.15.51:744][164]LogAIModule: Creating AISystem for world settingTestLevel
+[2020.09.09-05.15.51:749][164]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/settingTestLevel.settingTestLevel
+[2020.09.09-05.15.51:839][164]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.09.09-05.15.56:022][164]LogSlate: Window '保存内容' being destroyed
+[2020.09.09-05.15.56:031][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/WBP_Settings" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/WBP_Settings.uasset" SILENT=true
+[2020.09.09-05.15.56:319][164]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_Settings87A90CD34A0BCDE817321DBF0726C7B1.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/WBP_Settings.uasset'
+[2020.09.09-05.15.56:327][164]Cmd: MAP LOAD FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/Maps/settingTestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.09-05.15.56:327][164]LightingResults: New page: 光照构建
+[2020.09.09-05.15.56:328][164]LoadErrors: New page: 正在加载地图：settingTestLevel.umap
+[2020.09.09-05.15.56:328][164]LogWorld: UWorld::CleanupWorld for WorldOutlinerAndAddActors, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-05.15.56:329][164]MapCheck: New page: 地图检测
+[2020.09.09-05.15.56:329][164]LightingResults: New page: 光照构建
+[2020.09.09-05.15.56:411][164]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2020.09.09-05.15.56:681][164]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.09-05.15.56:764][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.09.09-05.15.56:821][164]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.09-05.15.56:821][164]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.126毫秒。
+[2020.09.09-05.15.56:822][164]LogFileHelpers: Loading map 'settingTestLevel' took 0.496
+[2020.09.09-05.15.59:213][297]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.09.09-05.15.59:273][297]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel' with GeneratedClass '/Game/Maps/settingTestLevel.settingTestLevel_C' with ClassGeneratedBy '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel'
+[2020.09.09-05.15.59:273][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.09-05.15.59:273][297]PIE: New page: PIE会话：settingTestLevel（2020年9月9日 下午9:15:59）
+[2020.09.09-05.15.59:273][297]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_settingTestLevel
+[2020.09.09-05.15.59:278][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004132s)
+[2020.09.09-05.15.59:279][297]LogAIModule: Creating AISystem for world settingTestLevel
+[2020.09.09-05.15.59:279][297]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2020.09.09-05.15.59:279][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/settingTestLevel.settingTestLevel to /Game/Maps/UEDPIE_0_settingTestLevel.settingTestLevel (0.006109s)
+[2020.09.09-05.15.59:355][297]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.09.09-05.15.59:376][297]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.09-05.15.59:400][297]LogInit: FAudioDevice initialized.
+[2020.09.09-05.15.59:411][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-05.15.59:411][297]LogLoad: Game class is 'GameModeBase'
+[2020.09.09-05.15.59:413][297]LogWorld: Bringing World /Game/Maps/UEDPIE_0_settingTestLevel.settingTestLevel up for play (max tick rate 0) at 2020.09.09-13.15.59
+[2020.09.09-05.15.59:414][297]LogWorld: Bringing up level for play took: 0.001777
+[2020.09.09-05.15.59:414][297]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.09.09-05.15.59:420][297]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2020.09.09-05.15.59:430][297]PIE: /Game/Maps/UEDPIE_0_settingTestLevel在编辑器中运行的起始时间1.038
+[2020.09.09-05.15.59:430][297]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel' with GeneratedClass '/Game/Maps/settingTestLevel.settingTestLevel_C' with ClassGeneratedBy '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel'
+[2020.09.09-05.16.40:275][  8]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.09-05.16.40:483][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel' with GeneratedClass '/Game/Maps/settingTestLevel.settingTestLevel_C' with ClassGeneratedBy '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel'
+[2020.09.09-05.16.40:483][  8]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_settingTestLevel
+[2020.09.09-05.16.40:483][  8]LogWorld: UWorld::CleanupWorld for settingTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-05.16.40:496][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.09-05.16.40:497][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel' with GeneratedClass '/Game/Maps/settingTestLevel.settingTestLevel_C' with ClassGeneratedBy '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel'
+[2020.09.09-05.16.40:591][  8]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2020.09.09-05.16.40:749][  9]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.09.09-05.17.09:063][233]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2020.09.09-05.17.09:124][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel' with GeneratedClass '/Game/Maps/settingTestLevel.settingTestLevel_C' with ClassGeneratedBy '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel'
+[2020.09.09-05.17.09:124][233]BlueprintLog: New page: 运行前自动重新编译
+[2020.09.09-05.17.09:131][233]LogPlayLevel: [PlayLevel] Compiling WBP_Settings before play...
+[2020.09.09-05.17.09:693][233]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2020.09.09-05.17.09:693][233]LogPlayLevel: PlayLevel: Blueprint regeneration took 569 ms (1 blueprints)
+[2020.09.09-05.17.09:693][233]PIE: New page: PIE会话：settingTestLevel（2020年9月9日 下午9:17:09）
+[2020.09.09-05.17.09:694][233]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_settingTestLevel
+[2020.09.09-05.17.09:698][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004159s)
+[2020.09.09-05.17.09:698][233]LogAIModule: Creating AISystem for world settingTestLevel
+[2020.09.09-05.17.09:698][233]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2020.09.09-05.17.09:698][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/settingTestLevel.settingTestLevel to /Game/Maps/UEDPIE_0_settingTestLevel.settingTestLevel (0.005739s)
+[2020.09.09-05.17.09:779][233]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.09.09-05.17.09:800][233]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.09-05.17.09:823][233]LogInit: FAudioDevice initialized.
+[2020.09.09-05.17.09:835][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-05.17.09:835][233]LogLoad: Game class is 'GameModeBase'
+[2020.09.09-05.17.09:837][233]LogWorld: Bringing World /Game/Maps/UEDPIE_0_settingTestLevel.settingTestLevel up for play (max tick rate 0) at 2020.09.09-13.17.09
+[2020.09.09-05.17.09:837][233]LogWorld: Bringing up level for play took: 0.001856
+[2020.09.09-05.17.09:839][233]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.09.09-05.17.09:840][233]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.09-05.17.09:841][233]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2020.09.09-05.17.09:852][233]PIE: /Game/Maps/UEDPIE_0_settingTestLevel在编辑器中运行的起始时间1.461
+[2020.09.09-05.17.09:853][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel' with GeneratedClass '/Game/Maps/settingTestLevel.settingTestLevel_C' with ClassGeneratedBy '/Game/Maps/settingTestLevel.settingTestLevel:PersistentLevel.settingTestLevel'
+[2020.09.09-05.17.12:317][409]Cmd: r.ViewDistanceScale 10.0
+[2020.09.09-05.17.12:317][409]r.ViewDistanceScale = "10"
+[2020.09.09-05.17.12:318][409]Cmd: r.PostProcessAAQuality 6.0
+[2020.09.09-05.17.12:318][409]r.PostProcessAAQuality = "6"
+[2020.09.09-05.17.12:318][409]Cmd: sg.PostProcessQuality -1
+[2020.09.09-05.17.12:318][409]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.09.09-05.17.12:318][409]sg.PostProcessQuality = "-1"
+[2020.09.09-05.17.12:318][409]Cmd: sg.ShadowQuality -1
+[2020.09.09-05.17.12:318][409]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.09.09-05.17.12:318][409]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.09.09-05.17.12:319][409]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.09.09-05.17.12:319][409]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.09.09-05.17.12:319][409]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.09.09-05.17.12:319][409]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.09.09-05.17.12:319][409]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.09.09-05.17.12:319][409]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.09.09-05.17.12:319][409]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.09.09-05.17.12:319][409]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.09.09-05.17.12:319][409]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.09.09-05.17.12:319][409]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.09.09-05.17.12:319][409]sg.ShadowQuality = "-1"
+[2020.09.09-05.17.12:329][409]Cmd: sg.TextureQuality -1
+[2020.09.09-05.17.12:329][409]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.09-05.17.12:329][409]sg.TextureQuality = "-1"
+[2020.09.09-05.17.12:329][409]Cmd: sg.EffectsQuality -1
+[2020.09.09-05.17.12:329][409]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.09.09-05.17.12:329][409]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.09.09-05.17.12:330][409]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.09.09-05.17.12:330][409]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.09.09-05.17.12:330][409]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.09.09-05.17.12:330][409]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.09.09-05.17.12:330][409]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.09.09-05.17.12:330][409]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.09.09-05.17.12:330][409]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.09-05.17.12:330][409]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.09.09-05.17.12:330][409]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.09.09-05.17.12:330][409]sg.EffectsQuality = "-1"
+[2020.09.09-05.17.12:995][409]LogMaterial: Display: Missing cached shader map for material Cross_Mat, compiling. 
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 16
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 15
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 14
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 13
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 12
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 11
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 10
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 9
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 8
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 7
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 6
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 5
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 4
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 3
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 2
+[2020.09.09-05.17.13:026][409]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 1
+[2020.09.09-05.17.13:026][409]LogMaterial: Display: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2020.09.09-05.17.13:051][409]LogMaterial: Display: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2020.09.09-05.17.13:067][409]LogMaterial: Display: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2020.09.09-05.17.13:082][409]LogMaterial: Display: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2020.09.09-05.17.13:098][409]LogMaterial: Display: Missing cached shader map for material Tick_Mat, compiling. 
+[2020.09.09-05.17.13:111][409]LogMaterial: Display: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2020.09.09-05.17.13:126][409]LogMaterial: Display: Missing cached shader map for material WidgetMaterial, compiling. 
+[2020.09.09-05.17.13:137][409]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2020.09.09-05.17.13:150][409]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2020.09.09-05.17.13:164][409]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2020.09.09-05.17.13:180][409]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 156
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 150
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 144
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 138
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 132
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 126
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 120
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 114
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (25/29): shaders left to compile 108
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (26/29): shaders left to compile 102
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (27/29): shaders left to compile 96
+[2020.09.09-05.17.13:198][409]LogShaderCompilers: Display: Worker (28/29): shaders left to compile 90
+[2020.09.09-05.17.13:198][409]LogMaterial: Display: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2020.09.09-05.17.13:217][409]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2020.09.09-05.17.13:235][409]LogMaterial: Display: Missing cached shader map for material BlinkingCaret, compiling. 
+[2020.09.09-05.17.13:252][409]LogMaterial: Display: Missing cached shader map for material M_StreamingPause, compiling. 
+[2020.09.09-05.17.13:270][409]LogMaterial: Display: Missing cached shader map for material OculusMR_WhiteMaterial, compiling. 
+[2020.09.09-05.17.13:288][409]LogMaterial: Display: Missing cached shader map for material OculusMR_ChromaKey, compiling. 
+[2020.09.09-05.17.13:312][409]LogMaterial: Display: Missing cached shader map for material OculusMR_ChromaKey_Lit, compiling. 
+[2020.09.09-05.17.13:468][409]LogMaterial: Display: Missing cached shader map for material OculusMR_OpaqueColoredMaterial, compiling. 
+[2020.09.09-05.17.13:495][409]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2020.09.09-05.17.13:526][409]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.09.09-05.17.13:753][409]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 260
+[2020.09.09-05.17.13:753][409]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 250
+[2020.09.09-05.17.13:753][409]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 241
+[2020.09.09-05.17.13:753][409]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 232
+[2020.09.09-05.17.13:753][409]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 223
+[2020.09.09-05.17.13:753][409]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 214
+[2020.09.09-05.17.13:753][409]LogMaterial: Display: Missing cached shader map for material CASC_ModuleDisable_MAT, compiling. 
+[2020.09.09-05.17.13:810][409]LogMaterial: Display: Missing cached shader map for material CASC_RenderLights_MAT, compiling. 
+[2020.09.09-05.17.13:880][409]LogMaterial: Display: Missing cached shader map for material M_ColorGrid, compiling. 
+[2020.09.09-05.17.13:949][409]LogMaterial: Display: Missing cached shader map for material LightmapResolutionMaterial, compiling. Is special engine material.
+[2020.09.09-05.17.15:132][409]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 405
+[2020.09.09-05.17.15:132][409]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 395
+[2020.09.09-05.17.15:132][409]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 385
+[2020.09.09-05.17.15:132][409]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 375
+[2020.09.09-05.17.15:132][409]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 365
+[2020.09.09-05.17.15:132][409]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 355
+[2020.09.09-05.17.15:132][409]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 345
+[2020.09.09-05.17.15:132][409]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 335
+[2020.09.09-05.17.15:132][409]LogMaterial: Display: Missing cached shader map for material TangentColorMaterial, compiling. 
+[2020.09.09-05.17.15:230][409]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 1203
+[2020.09.09-05.17.15:230][409]LogMaterial: Display: Missing cached shader map for material DefaultDecalMaterial, compiling. 
+[2020.09.09-05.17.15:268][409]LogMaterial: Display: Missing cached shader map for material BasicAsset01, compiling. 
+[2020.09.09-05.17.15:389][409]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 1264
+[2020.09.09-05.17.15:389][409]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2020.09.09-05.17.15:589][409]LogMaterial: Display: Missing cached shader map for material M_Bush, compiling. 
+[2020.09.09-05.17.15:679][409]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2020.09.09-05.17.15:740][409]LogMaterial: Display: Missing cached shader map for material M_ShellMaster, compiling. 
+[2020.09.09-05.17.15:809][409]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2020.09.09-05.17.15:899][409]LogMaterial: Display: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2020.09.09-05.17.16:009][409]LogMaterial: Display: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2020.09.09-05.17.16:129][409]LogMaterial: Display: Missing cached shader map for material TutorialTPP_Mat, compiling. 
+[2020.09.09-05.17.16:244][409]LogMaterial: Display: Missing cached shader map for material SimplePivotPainterExampleMat, compiling. 
+[2020.09.09-05.17.16:456][409]LogMaterial: Display: Missing cached shader map for material M_ShellMaster, compiling. 
+[2020.09.09-05.17.16:520][409]LogMaterial: Display: Missing cached shader map for material SimplePivotPainterExampleMat, compiling. 
+[2020.09.09-05.17.16:664][409]Cmd: FoliageQuality -1
+[2020.09.09-05.17.16:665][409]Command not recognized: FoliageQuality -1
+[2020.09.09-05.17.16:667][409]LogScript: Warning: 已尝试从长度为 9 的数组 CallFunc_GetSupportedFullscreenResolutions_Resolutions 访问索引 -1！
+	WBP_Settings_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.WBP_Settings_C_0
+	Function /Game/ui/WBP_Settings.WBP_Settings_C:setResolution:00A7
+[2020.09.09-05.17.16:668][409]PIE: Error: 蓝图运行时错误："已尝试从长度为 9 的数组 CallFunc_GetSupportedFullscreenResolutions_Resolutions 访问索引 -1！"。 蓝图： WBP_Settings 函数： Set Resolution 图表： setResolution 节点： 设置屏幕分辨率
+[2020.09.09-05.17.16:708][409]LogOutputDevice: Warning: 
+
+Script Stack (3 frames):
+WBP_Settings_C.setResolution
+WBP_Settings_C.ExecuteUbergraph_WBP_Settings
+WBP_Settings_C.BndEvt__viewdistance_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature
+
+[2020.09.09-05.17.16:711][409]LogWindows: Windows GetLastError: 操作成功完成。 (0)

@@ -1,0 +1,1169 @@
+﻿Log file open, 09/05/20 09:32:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UITest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.778998
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU:       Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz, GPU: AMD FirePro W7000
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.05-01.32.56:874][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.05-01.32.56:874][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.05-01.32.56:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.05-01.32.56:874][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.05-01.32.56:874][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.05-01.32.56:875][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.05-01.32.56:875][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.05-01.32.56:875][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.05-01.32.56:885][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.05-01.32.56:885][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.05-01.32.56:886][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.05-01.32.56:888][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.05-01.32.56:888][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.05-01.32.56:909][  0]LogHAL: Display: Platform has ~ 32 GB [34279550976 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.05-01.32.56:909][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.05-01.32.56:909][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:909][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.05-01.32.56:909][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.09.05-01.32.56:909][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.09.05-01.32.56:910][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Scalability.ini]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.05-01.32.56:911][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.05-01.32.56:924][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.05-01.32.56:924][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.05-01.32.56:924][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/cyj/ue4test/yogurt.github/UITest/Saved/Config/Windows/Engine.ini]
+[2020.09.05-01.32.56:926][  0]LogInit: Computer: DESKTOP-EFCCDAE
+[2020.09.05-01.32.56:926][  0]LogInit: User: GZ12
+[2020.09.05-01.32.56:926][  0]LogInit: CPU Page size=4096, Cores=16
+[2020.09.05-01.32.56:926][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.05-01.32.56:926][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.09.05-01.32.56:927][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.05-01.32.56:927][  0]LogMemory: Process Physical Memory: 105.34 MB used, 105.34 MB peak
+[2020.09.05-01.32.56:927][  0]LogMemory: Process Virtual Memory: 95.18 MB used, 95.18 MB peak
+[2020.09.05-01.32.56:927][  0]LogMemory: Physical Memory: 5706.75 MB used,  26984.78 MB free, 32691.53 MB total
+[2020.09.05-01.32.56:927][  0]LogMemory: Virtual Memory: 4745.41 MB used,  134212984.00 MB free, 134217728.00 MB total
+[2020.09.05-01.32.56:936][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.05-01.32.57:331][  0]LogInit: Overriding language with editor language configuration option (zh-Hans).
+[2020.09.05-01.32.57:331][  0]LogInit: Overriding locale with editor locale configuration option (zh-Hans).
+[2020.09.05-01.32.57:636][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.09.05-01.32.57:636][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.09.05-01.32.57:636][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.09.05-01.32.57:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.09.05-01.32.57:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.09.05-01.32.57:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.09.05-01.32.57:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.09.05-01.32.57:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.09.05-01.32.57:637][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.09.05-01.32.57:638][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.09.05-01.32.57:638][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.09.05-01.32.57:685][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.05-01.32.57:834][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.05-01.32.57:834][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.05-01.33.01:686][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.09.05-01.33.01:687][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.05-01.33.02:094][  0]LogD3D11RHI:    0. 'AMD FirePro W7000' (Feature Level 11_0)
+[2020.09.05-01.33.02:095][  0]LogD3D11RHI:       4075/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.09.05-01.33.02:102][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.05-01.33.02:102][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.05-01.33.02:102][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.05-01.33.02:118][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.05-01.33.02:118][  0]LogD3D11RHI:     GPU DeviceId: 0x6808 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.05-01.33.02:118][  0]LogWindows: EnumDisplayDevices:
+[2020.09.05-01.33.02:118][  0]LogWindows:    0. 'AMD FirePro W7000' (P:1 D:1)
+[2020.09.05-01.33.02:119][  0]LogWindows:    1. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.05-01.33.02:119][  0]LogWindows:    2. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.05-01.33.02:120][  0]LogWindows:    3. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.05-01.33.02:120][  0]LogWindows:    4. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.05-01.33.02:121][  0]LogWindows:    5. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.05-01.33.02:121][  0]LogWindows:    6. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.05-01.33.02:122][  0]LogWindows:    7. 'AMD FirePro W7000' (P:0 D:0)
+[2020.09.05-01.33.02:122][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.09.05-01.33.02:122][  0]LogD3D11RHI:     Adapter Name: AMD FirePro W7000
+[2020.09.05-01.33.02:123][  0]LogD3D11RHI:   Driver Version: 27.20.1023.1001 (internal:27.20.1023.1001, unified:27.20.1023.1001)
+[2020.09.05-01.33.02:123][  0]LogD3D11RHI:      Driver Date: 6-10-2020
+[2020.09.05-01.33.02:123][  0]LogRHI: Texture pool is 2853 MB (70% of 4075 MB)
+[2020.09.05-01.33.02:427][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.05-01.33.02:508][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.09.05-01.33.03:117][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.09.05-01.33.03:131][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.09.05-01.33.03:145][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.09.05-01.33.03:159][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.09.05-01.33.03:184][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.09.05-01.33.03:198][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.09.05-01.33.03:212][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.05-01.33.03:267][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.09.05-01.33.03:275][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.09.05-01.33.03:340][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.09.05-01.33.03:345][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.09.05-01.33.03:389][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.09.05-01.33.03:389][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.09.05-01.33.03:407][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.09.05-01.33.03:407][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.09.05-01.33.03:419][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.09.05-01.33.03:430][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.05-01.33.03:442][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.09.05-01.33.03:466][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.09.05-01.33.03:505][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.09.05-01.33.03:505][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.09.05-01.33.03:505][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.05-01.33.03:564][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.05-01.33.03:719][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (E:/cyj/ue4test/yogurt.github/UITest/Intermediate/Shaders/WorkingDirectory/20888/).
+[2020.09.05-01.33.03:719][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/GZ-12/AppData/Local/Temp/UnrealShaderWorkingDir/E8C9D8454C1EC73493B45ABEF1105CAC/'.
+[2020.09.05-01.33.03:724][  0]LogXGEController: Cleaning working directory: C:/Users/GZ-12/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.09.05-01.33.03:724][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.05-01.33.03:724][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.05-01.33.03:724][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.05-01.33.06:906][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.05-01.33.07:250][  0]LogDerivedDataCache: Loaded boot cache 0.34s 73MB C:/Users/GZ-12/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.05-01.33.07:250][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/GZ-12/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.09.05-01.33.07:250][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/cyj/ue4test/yogurt.github/UITest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.05-01.33.07:250][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.05-01.33.07:250][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/cyj/ue4test/yogurt.github/UITest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.05-01.33.07:250][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.05-01.33.07:279][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.05-01.33.07:279][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.05-01.33.07:279][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.05-01.33.07:281][  0]LogDerivedDataCache: Using Local data cache path C:/Users/GZ-12/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.05-01.33.07:281][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.05-01.33.07:281][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.05-01.33.07:315][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.05-01.33.07:323][  0]LogSlate: Using FreeType 2.6.0
+[2020.09.05-01.33.07:336][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.05-01.33.07:666][  0]LogAssetRegistry: FAssetRegistry took 0.0057 seconds to start up
+[2020.09.05-01.33.08:243][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.05-01.33.08:657][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.05-01.33.08:657][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.05-01.33.08:657][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.05-01.33.08:657][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.05-01.33.08:658][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.05-01.33.08:718][  0]LogNetVersion: UITest 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2202078738)
+[2020.09.05-01.33.10:205][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.135158 seconds
+[2020.09.05-01.33.10:211][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.09.05-01.33.10:211][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.09.05-01.33.10:211][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.05-01.33.14:278][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.05-01.33.14:285][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.05-01.33.14:418][  0]SourceControl: 源码管理已禁用
+[2020.09.05-01.33.14:418][  0]SourceControl: 源码管理已禁用
+[2020.09.05-01.33.14:430][  0]SourceControl: 源码管理已禁用
+[2020.09.05-01.33.14:434][  0]SourceControl: 源码管理已禁用
+[2020.09.05-01.33.14:750][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.05-01.33.14:996][  0]LogOcInput: OculusInput pre-init called
+[2020.09.05-01.33.15:010][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.05-01.33.15:010][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.05-01.33.15:186][  0]LogEngine: Initializing Engine...
+[2020.09.05-01.33.15:258][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.09.05-01.33.15:262][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.09.05-01.33.15:792][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.05-01.33.15:842][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.05-01.33.15:880][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.05-01.33.15:989][  0]LogInit: FAudioDevice initialized.
+[2020.09.05-01.33.15:989][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.05-01.33.16:124][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/GZ-12/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.09.05-01.33.16:131][  0]LogInit: Texture streaming: Enabled
+[2020.09.05-01.33.16:161][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.05-01.33.16:161][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.05-01.33.16:163][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.05-01.33.16:441][  0]LogInit: Transaction tracking system initialized
+[2020.09.05-01.33.16:525][  0]BlueprintLog: New page: 编辑器加载
+[2020.09.05-01.33.16:764][  0]LocalizationService: 本地化服务已禁用
+[2020.09.05-01.33.18:253][  0]LogFileCache: Scanning file cache for directory 'E:/cyj/ue4test/yogurt.github/UITest/Content/' took 0.01s
+[2020.09.05-01.33.18:253][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.05-01.33.18:253][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.05-01.33.18:949][  0]SourceControl: 源码管理已禁用
+[2020.09.05-01.33.18:951][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.05-01.33.18:959][  0]LightingResults: New page: 光照构建
+[2020.09.05-01.33.18:967][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-01.33.18:971][  0]MapCheck: New page: 地图检测
+[2020.09.05-01.33.18:971][  0]LightingResults: New page: 光照构建
+[2020.09.05-01.33.19:047][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.09.05-01.33.19:316][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.09.05-01.33.19:348][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.05-01.33.19:418][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.09.05-01.33.19:419][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.05-01.33.19:420][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.854毫秒。
+[2020.09.05-01.33.19:420][  0]LogFileHelpers: Loading map 'Template_Default' took 0.469
+[2020.09.05-01.33.19:641][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-01.33.19:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-01.33.19:664][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-01.33.19:674][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-01.33.19:697][  0]LogCollectionManager: Loaded 0 collections in 0.002186 seconds
+[2020.09.05-01.33.19:723][  0]LogFileCache: Scanning file cache for directory 'E:/cyj/ue4test/yogurt.github/UITest/Saved/Collections/' took 0.00s
+[2020.09.05-01.33.19:723][  0]LogFileCache: Scanning file cache for directory 'E:/cyj/ue4test/yogurt.github/UITest/Content/Developers/GZ12/Collections/' took 0.00s
+[2020.09.05-01.33.19:723][  0]LogFileCache: Scanning file cache for directory 'E:/cyj/ue4test/yogurt.github/UITest/Content/Collections/' took 0.00s
+[2020.09.05-01.33.19:723][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.09.05-01.33.19:737][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2863 classes and 680 folders.
+[2020.09.05-01.33.19:753][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.05-01.33.20:167][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.05-01.33.20:184][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.09.05-01.33.20:379][  0]LogSlate: Took 0.008662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.05-01.33.20:402][  0]LogSlate: Took 0.022127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.09.05-01.33.20:409][  0]LogSlate: Took 0.006832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.05-01.33.20:420][  0]LogSlate: Took 0.006088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.05-01.33.20:526][  0]LogRenderer: Reallocating scene render targets to support 1108x576 Format 9 NumSamples 1 (Frame:1).
+[2020.09.05-01.33.20:713][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.05-01.33.20:713][  0]LogLoad: (Engine Initialization) Total time: 31.15 seconds
+[2020.09.05-01.33.20:713][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.05-01.33.20:784][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.09.05-01.33.20:835][  0]LogSlate: Took 0.007908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.05-01.33.22:072][ 17]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.05-01.33.22:081][ 17]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui/UI_NavigationWindows/WBP_WindowsButton.WBP_WindowsButton
+[2020.09.05-01.33.22:188][ 17]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.09.05-01.33.23:986][ 17]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation
+[2020.09.05-01.33.24:543][ 17]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui/UI_NavigationWindows/WBP_WindowOption.WBP_WindowOption
+[2020.09.05-01.33.25:084][ 17]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui/UI_NavigationWindows/WBP_ClickWindowButton.WBP_ClickWindowButton
+[2020.09.05-01.33.26:272][ 17]LogSlate: Took 0.022747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.05-01.33.27:273][ 31]LogAssetRegistry: Asset discovery search completed in 19.6076 seconds
+[2020.09.05-01.33.27:278][ 31]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2020.09.05-01.33.27:278][ 31]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2020.09.05-01.33.45:326][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.05-01.34.20:716][207]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B675B3EB-42B0-B06F-F2AE-A18F3C0D89E4}
+[2020.09.05-01.34.21:543][272]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.05-01.34.21:561][272]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/WindowsOptions.WindowsOptions
+[2020.09.05-01.34.21:678][272]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.09.05-01.34.21:680][272]Cmd: MAP LOAD FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/Maps/WindowsOptions.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.05-01.34.21:680][272]LightingResults: New page: 光照构建
+[2020.09.05-01.34.21:681][272]LoadErrors: New page: 正在加载地图：WindowsOptions.umap
+[2020.09.05-01.34.21:682][272]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-01.34.21:682][272]MapCheck: New page: 地图检测
+[2020.09.05-01.34.21:682][272]LightingResults: New page: 光照构建
+[2020.09.05-01.34.21:749][272]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.09.05-01.34.21:886][272]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.05-01.34.21:954][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.09.05-01.34.22:009][272]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.05-01.34.22:009][272]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.137毫秒。
+[2020.09.05-01.34.22:009][272]LogFileHelpers: Loading map 'WindowsOptions' took 0.331
+[2020.09.05-01.41.48:111][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.05-01.44.30:464][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.05-01.45.17:552][719]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.09.05-01.45.17:868][719]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2020.09.05-01.45.17:892][719]LogMetaData: Removing '/Game/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.WBP_ButtonWithCheckBox_C' ref from Metadata '/Game/ui/UI_NavigationWindows/WBP_WindowsButton.PackageMetaData'
+[2020.09.05-01.45.17:892][719]LogMetaData: Removing '/Game/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.WBP_ButtonWithCheckBox:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ui/UI_NavigationWindows/WBP_WindowsButton.PackageMetaData'
+[2020.09.05-01.45.17:892][719]LogMetaData: Removing '/Game/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.WBP_ButtonWithCheckBox:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ui/UI_NavigationWindows/WBP_WindowsButton.PackageMetaData'
+[2020.09.05-01.45.17:892][719]LogMetaData: Removing '/Game/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.WBP_ButtonWithCheckBox:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ui/UI_NavigationWindows/WBP_WindowsButton.PackageMetaData'
+[2020.09.05-01.45.17:892][719]LogMetaData: Removing '/Game/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.WBP_ButtonWithCheckBox:setLogoAndName.K2Node_FunctionEntry_0' ref from Metadata '/Game/ui/UI_NavigationWindows/WBP_WindowsButton.PackageMetaData'
+[2020.09.05-01.45.17:892][719]LogMetaData: Removing '/Game/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.SKEL_WBP_ButtonWithCheckBox_C' ref from Metadata '/Game/ui/UI_NavigationWindows/WBP_WindowsButton.PackageMetaData'
+[2020.09.05-01.45.17:929][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.uasset" SILENT=true
+[2020.09.05-01.45.17:979][719]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_ButtonWithCheckBox26A8050B46CC4297EF8F218FBB4F4B66.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.uasset'
+[2020.09.05-01.45.18:228][719]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2020.09.05-01.45.18:294][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.09.05-01.45.18:355][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.09.05-01.45.18:371][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/WBP_WindowsOpptions" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/WBP_WindowsOpptions.uasset" SILENT=true
+[2020.09.05-01.45.18:759][719]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_WindowsOpptions1F8807DE4407BF5587058386BFF0450C.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/WBP_WindowsOpptions.uasset'
+[2020.09.05-01.45.18:764][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/WBP_WindowOption" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_WindowOption.uasset" SILENT=true
+[2020.09.05-01.45.18:833][719]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_WindowOption10023A7A41B9A61CC20088A3B21774A5.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_WindowOption.uasset'
+[2020.09.05-01.45.29:000][919]BlueprintLog: New page: 编译WBP_WindowOption
+[2020.09.05-01.45.29:342][919]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2020.09.05-01.48.33:031][358]LogSlate: Window '选取父类' being destroyed
+[2020.09.05-01.48.54:095][839]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui/UI_NavigationWindows/WBP_NormalButton.WBP_NormalButton
+[2020.09.05-01.48.57:111][ 29]LogSlate: Window 'WBP_NormalButton' being destroyed
+[2020.09.05-01.49.05:339][  5]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-01.49.05:376][  5]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-01.49.53:183][706]BlueprintLog: New page: 编译WBP_NormalButton
+[2020.09.05-01.49.53:514][706]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2020.09.05-01.50.18:733][699]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.09.05-01.50.18:733][699]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/WindowsOptions' took 0.066
+[2020.09.05-01.50.18:735][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ui/UI_NavigationWindows/WBP_NormalButton] ([1] browsable assets)...
+[2020.09.05-01.50.18:736][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_NavigationWindows/WBP_NormalButton]
+[2020.09.05-01.50.18:750][699]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_NormalButton_Auto1F94805674F7728E2D60576B2A8A7E7AC.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Saved/Autosaves/Game/ui/UI_NavigationWindows/WBP_NormalButton_Auto1.uasset'
+[2020.09.05-01.50.18:750][699]LogFileHelpers: Auto-saving content packages took 0.015
+[2020.09.05-01.52.27:273][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.uasset" SILENT=true
+[2020.09.05-01.52.27:349][773]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_ButtonWithCheckBoxA2F7A90E4D4C44CF0869C091123ACC81.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.uasset'
+[2020.09.05-01.52.28:010][848]LogTemp: Repeating last play command: 选中的视口
+[2020.09.05-01.52.28:064][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.28:065][848]BlueprintLog: New page: 运行前自动重新编译
+[2020.09.05-01.52.28:066][848]LogPlayLevel: [PlayLevel] Compiling WBP_NormalButton before play...
+[2020.09.05-01.52.28:490][848]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.09.05-01.52.28:490][848]LogPlayLevel: PlayLevel: Blueprint regeneration took 425 ms (1 blueprints)
+[2020.09.05-01.52.28:492][848]PIE: New page: PIE会话：WindowsOptions（2020年9月5日 下午5:52:28）
+[2020.09.05-01.52.28:494][848]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.05-01.52.28:496][848]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-01.52.28:500][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003691s)
+[2020.09.05-01.52.28:501][848]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.05-01.52.28:502][848]LogPlayLevel: PIE: World Init took: (0.001629s)
+[2020.09.05-01.52.28:502][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.005599s)
+[2020.09.05-01.52.28:571][848]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.09.05-01.52.28:596][848]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.05-01.52.28:620][848]LogInit: FAudioDevice initialized.
+[2020.09.05-01.52.28:652][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-01.52.28:653][848]LogLoad: Game class is 'GameModeBase'
+[2020.09.05-01.52.28:655][848]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.05-09.52.28
+[2020.09.05-01.52.28:656][848]LogWorld: Bringing up level for play took: 0.002034
+[2020.09.05-01.52.28:657][848]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.09.05-01.52.28:659][848]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.05-01.52.28:671][848]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.09.05-01.52.28:688][848]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间0.473
+[2020.09.05-01.52.28:689][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.28:728][849]LogRenderer: Reallocating scene render targets to support 1280x720 Format 9 NumSamples 1 (Frame:1).
+[2020.09.05-01.52.36:626][669]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.36:627][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-01.52.36:627][669]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-01.52.36:656][669]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.05-01.52.36:661][669]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-01.52.36:672][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.05-01.52.36:672][669]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.36:812][669]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2020.09.05-01.52.36:828][670]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.09.05-01.52.45:424][691]LogTemp: Repeating last play command: 选中的视口
+[2020.09.05-01.52.45:481][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.45:481][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.05-01.52.45:481][691]PIE: New page: PIE会话：WindowsOptions（2020年9月5日 下午5:52:45）
+[2020.09.05-01.52.45:481][691]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-01.52.45:484][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003215s)
+[2020.09.05-01.52.45:486][691]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.05-01.52.45:486][691]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2020.09.05-01.52.45:486][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.004868s)
+[2020.09.05-01.52.45:569][691]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2020.09.05-01.52.45:592][691]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.05-01.52.45:615][691]LogInit: FAudioDevice initialized.
+[2020.09.05-01.52.45:626][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-01.52.45:626][691]LogLoad: Game class is 'GameModeBase'
+[2020.09.05-01.52.45:628][691]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.05-09.52.45
+[2020.09.05-01.52.45:629][691]LogWorld: Bringing up level for play took: 0.001754
+[2020.09.05-01.52.45:629][691]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.09.05-01.52.45:631][691]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.05-01.52.45:645][691]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间-0.569
+[2020.09.05-01.52.45:646][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.48:472][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.48:473][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-01.52.48:473][ 15]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-01.52.48:502][ 15]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.05-01.52.48:504][ 15]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-01.52.48:514][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.05-01.52.48:514][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.48:604][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.09.05-01.52.48:623][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.09.05-01.52.50:041][179]BlueprintLog: New page: 编译WBP_ButtonWithCheckBox
+[2020.09.05-01.52.50:136][179]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2020.09.05-01.52.51:008][265]LogTemp: Repeating last play command: 选中的视口
+[2020.09.05-01.52.51:065][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.51:065][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.05-01.52.51:065][265]PIE: New page: PIE会话：WindowsOptions（2020年9月5日 下午5:52:51）
+[2020.09.05-01.52.51:065][265]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-01.52.51:068][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003295s)
+[2020.09.05-01.52.51:070][265]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.05-01.52.51:070][265]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2020.09.05-01.52.51:070][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.004903s)
+[2020.09.05-01.52.51:148][265]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2020.09.05-01.52.51:168][265]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.05-01.52.51:191][265]LogInit: FAudioDevice initialized.
+[2020.09.05-01.52.51:201][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-01.52.51:201][265]LogLoad: Game class is 'GameModeBase'
+[2020.09.05-01.52.51:203][265]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.05-09.52.51
+[2020.09.05-01.52.51:203][265]LogWorld: Bringing up level for play took: 0.001593
+[2020.09.05-01.52.51:203][265]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.09.05-01.52.51:205][265]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.05-01.52.51:225][265]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间1.01
+[2020.09.05-01.52.51:225][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.53:728][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.53:729][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-01.52.53:729][553]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-01.52.53:758][553]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.05-01.52.53:763][553]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-01.52.53:774][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.05-01.52.53:774][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-01.52.53:865][553]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2020.09.05-01.52.53:885][554]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.09.05-01.53.40:878][103]BlueprintLog: New page: 编译WBP_NormalButton
+[2020.09.05-01.53.41:241][103]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2020.09.05-01.54.04:184][834]BlueprintLog: New page: 编译WBP_NormalButton
+[2020.09.05-01.54.04:570][834]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2020.09.05-01.54.29:729][811]LogSlate: Took 0.007434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.05-01.55.29:600][909]BlueprintLog: New page: 编译WBP_NormalButton
+[2020.09.05-01.55.29:976][909]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2020.09.05-01.55.50:947][410]BlueprintLog: New page: 编译WBP_NormalButton
+[2020.09.05-01.55.51:322][410]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2020.09.05-01.55.51:672][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/WBP_NormalButton" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_NormalButton.uasset" SILENT=true
+[2020.09.05-01.55.51:700][444]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_NormalButton481A595A4BE017B080FF8CBA48CEBCDB.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_NormalButton.uasset'
+[2020.09.05-01.56.39:462][118]LogMetaData: Removing '/Game/ui/UI_NavigationWindows/SCheckButton.SCheckButton' ref from Metadata '/Game/ui/UI_NavigationWindows/SWindowButton.PackageMetaData'
+[2020.09.05-01.56.39:462][118]LogMetaData: Removing '/Game/ui/UI_NavigationWindows/SCheckButton.SCheckButton:Logo_3_A2CCC7EC47D9DEDA38870FA789B1299C' ref from Metadata '/Game/ui/UI_NavigationWindows/SWindowButton.PackageMetaData'
+[2020.09.05-01.56.39:462][118]LogMetaData: Removing '/Game/ui/UI_NavigationWindows/SCheckButton.SCheckButton:FunctionName_5_BFC9F7DC47C4B4294B19E389E2089599' ref from Metadata '/Game/ui/UI_NavigationWindows/SWindowButton.PackageMetaData'
+[2020.09.05-01.56.39:489][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/SCheckButton" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/SCheckButton.uasset" SILENT=true
+[2020.09.05-01.56.39:500][118]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/SCheckButtonAA8FD408463F803D16B222B9F6B40D4D.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/SCheckButton.uasset'
+[2020.09.05-01.56.39:809][118]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2020.09.05-01.56.39:896][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.09.05-01.56.39:970][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.09.05-01.56.39:984][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/WBP_Navigation" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_Navigation.uasset" SILENT=true
+[2020.09.05-01.56.40:048][118]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_NavigationC6F701A14E03955F7EE4A1B854CAC0E8.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_Navigation.uasset'
+[2020.09.05-01.56.40:054][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/WBP_WindowOption" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_WindowOption.uasset" SILENT=true
+[2020.09.05-01.56.40:124][118]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_WindowOption2C3CEDC04659E134D427F59F6EB0EACD.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_WindowOption.uasset'
+[2020.09.05-01.57.17:949][527]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/ui/UI_NavigationWindows/SNormalButton.SNormalButton
+[2020.09.05-01.57.38:526][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/SNormalButton" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/SNormalButton.uasset" SILENT=true
+[2020.09.05-01.57.38:538][964]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/SNormalButtonFBF664044C3B9C98C199188782250A33.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/SNormalButton.uasset'
+[2020.09.05-01.57.38:903][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/SNormalButton" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/SNormalButton.uasset" SILENT=true
+[2020.09.05-01.57.38:986][  4]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/SNormalButton2D314B574B72B75CA0A94AADA946A83A.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/SNormalButton.uasset'
+[2020.09.05-01.57.39:190][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/SNormalButton" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/SNormalButton.uasset" SILENT=true
+[2020.09.05-01.57.39:226][ 25]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/SNormalButton2E06AD7B4E5E986FACC1719AB8A9A3AD.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/SNormalButton.uasset'
+[2020.09.05-01.58.10:774][795]BlueprintLog: New page: 编译WBP_Navigation
+[2020.09.05-01.58.10:859][795]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2020.09.05-01.59.30:757][320]BlueprintLog: New page: 编译WBP_WindowOption
+[2020.09.05-01.59.31:184][320]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2020.09.05-02.00.05:625][401]BlueprintLog: New page: 编译WBP_WindowOption
+[2020.09.05-02.00.06:031][401]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2020.09.05-02.00.06:247][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/WBP_WindowOption" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_WindowOption.uasset" SILENT=true
+[2020.09.05-02.00.06:310][402]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_WindowOption2BACD31A4B48A9052DEAF2A171495200.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_WindowOption.uasset'
+[2020.09.05-02.01.08:315][759]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ui/UI_NavigationWindows/WBP_ClickWindowButton.WBP_ClickWindowButton
+[2020.09.05-02.01.10:914][969]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2020.09.05-02.01.12:080][969]LogSlate: Window '保存内容' being destroyed
+[2020.09.05-02.01.12:102][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.uasset" SILENT=true
+[2020.09.05-02.01.12:196][969]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_ButtonWithCheckBox5BDCBDBE4099429C0F9F11B66D3A94A7.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_ButtonWithCheckBox.uasset'
+[2020.09.05-02.10.55:821][621]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.10.55:830][621]LogBlueprint: Warning: [Compiler WBP_ClickWindowButton] 在'WBP_ClickWindowButton_C’中找不到名为"WBP_WindowOption\”的变量。
+请确保已针对  获得WBP_WindowOption  对'WBP_ClickWindowButton_C’进行了编译
+[2020.09.05-02.10.55:830][621]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] 未能在“/Game/ui/UI_NavigationWindows/WBP_ClickWindowButton.WBP_ClickWindowButton_C”中找到和 WBP Window Option 相关的属性
+[2020.09.05-02.10.56:261][621]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2020.09.05-02.11.32:959][905]LogSlate: Took 0.007583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.09.05-02.11.49:536][744]LogSlate: Window '修改变量类型' being destroyed
+[2020.09.05-02.11.50:924][853]LogSlate: Window '在蓝图中寻找' being destroyed
+[2020.09.05-02.11.50:929][853]LogSlate: Window '在蓝图中寻找' being destroyed
+[2020.09.05-02.12.13:687][526]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.12.13:694][526]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] 正在使用的引脚  UI  已不存在于节点  Get  上。请刷新节点或断开连接来移除引脚。
+[2020.09.05-02.12.14:113][526]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2020.09.05-02.12.14:332][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/WBP_ClickWindowButton" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_ClickWindowButton.uasset" SILENT=true
+[2020.09.05-02.12.14:396][537]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_ClickWindowButtonF2B5544B47791EACC908E4A62AD01140.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_ClickWindowButton.uasset'
+[2020.09.05-02.12.26:502][965]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.12.26:905][965]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2020.09.05-02.12.27:166][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/UI_NavigationWindows/WBP_ClickWindowButton" FILE="E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_ClickWindowButton.uasset" SILENT=true
+[2020.09.05-02.12.27:224][980]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_ClickWindowButton3D709E0342BA383DCFCC429000C44FF9.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Content/ui/UI_NavigationWindows/WBP_ClickWindowButton.uasset'
+[2020.09.05-02.14.07:063][516]LogTemp: Repeating last play command: 选中的视口
+[2020.09.05-02.14.07:151][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.14.07:151][516]BlueprintLog: New page: 运行前自动重新编译
+[2020.09.05-02.14.07:163][516]LogPlayLevel: [PlayLevel] Compiling WBP_ButtonWithCheckBox before play...
+[2020.09.05-02.14.07:763][516]LogUObjectHash: Compacting FUObjectHashTables data took   8.46ms
+[2020.09.05-02.14.07:764][516]LogPlayLevel: PlayLevel: Blueprint regeneration took 611 ms (1 blueprints)
+[2020.09.05-02.14.07:764][516]PIE: New page: PIE会话：WindowsOptions（2020年9月5日 下午6:14:07）
+[2020.09.05-02.14.07:764][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-02.14.07:767][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003326s)
+[2020.09.05-02.14.07:769][516]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.05-02.14.07:769][516]LogPlayLevel: PIE: World Init took: (0.001602s)
+[2020.09.05-02.14.07:769][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.005071s)
+[2020.09.05-02.14.07:845][516]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.09.05-02.14.07:866][516]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.05-02.14.07:892][516]LogInit: FAudioDevice initialized.
+[2020.09.05-02.14.07:903][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-02.14.07:903][516]LogLoad: Game class is 'GameModeBase'
+[2020.09.05-02.14.07:905][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.05-10.14.07
+[2020.09.05-02.14.07:906][516]LogWorld: Bringing up level for play took: 0.001811
+[2020.09.05-02.14.07:906][516]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.09.05-02.14.07:908][516]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.05-02.14.07:911][516]LogScript: Warning: 已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:0190
+[2020.09.05-02.14.07:911][516]PIE: Error: 蓝图运行时错误："已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： 设置GraphEditor
+[2020.09.05-02.14.07:912][516]LogScript: Warning: 无访问
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:0190
+[2020.09.05-02.14.07:912][516]PIE: Error: 蓝图运行时错误："无访问"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： 设置GraphEditor
+[2020.09.05-02.14.07:912][516]LogScript: Warning: 已尝试指定到“无”
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:01A5
+[2020.09.05-02.14.07:912][516]PIE: Error: 蓝图运行时错误："已尝试指定到“无”"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： 设置GraphEditor
+[2020.09.05-02.14.07:912][516]LogScript: Warning: 已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:01D0
+[2020.09.05-02.14.07:912][516]PIE: Error: 蓝图运行时错误："已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： Add Button Options
+[2020.09.05-02.14.07:912][516]LogScript: Warning: 无访问
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:01D0
+[2020.09.05-02.14.07:912][516]PIE: Error: 蓝图运行时错误："无访问"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： Add Button Options
+[2020.09.05-02.14.07:912][516]LogScript: Warning: 已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:00A7
+[2020.09.05-02.14.07:912][516]PIE: Error: 蓝图运行时错误："已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： Add Button Options
+[2020.09.05-02.14.07:912][516]LogScript: Warning: 无访问
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:00A7
+[2020.09.05-02.14.07:912][516]PIE: Error: 蓝图运行时错误："无访问"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： Add Button Options
+[2020.09.05-02.14.07:914][516]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间1.699
+[2020.09.05-02.14.07:915][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.14.11:061][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.14.11:061][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-02.14.11:061][829]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-02.14.11:090][829]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.05-02.14.11:093][829]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-02.14.11:099][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.05-02.14.11:099][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.14.11:186][829]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.09.05-02.14.11:240][830]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.09.05-02.14.18:840][538]LogSlate: Window '消息日志' being destroyed
+[2020.09.05-02.14.18:845][538]LogSlate: Window '消息日志' being destroyed
+[2020.09.05-02.15.05:190][ 50]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.15.05:582][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   8.38ms
+[2020.09.05-02.15.37:979][832]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.15.38:379][832]LogUObjectHash: Compacting FUObjectHashTables data took   8.21ms
+[2020.09.05-02.17.33:466][422]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.05-02.18.00:875][687]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.18.01:291][687]LogUObjectHash: Compacting FUObjectHashTables data took   8.38ms
+[2020.09.05-02.18.02:754][847]LogTemp: Repeating last play command: 选中的视口
+[2020.09.05-02.18.02:834][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.18.02:834][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.05-02.18.02:834][847]PIE: New page: PIE会话：WindowsOptions（2020年9月5日 下午6:18:02）
+[2020.09.05-02.18.02:834][847]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-02.18.02:837][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003134s)
+[2020.09.05-02.18.02:839][847]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.05-02.18.02:839][847]LogPlayLevel: PIE: World Init took: (0.001555s)
+[2020.09.05-02.18.02:839][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.004858s)
+[2020.09.05-02.18.02:928][847]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2020.09.05-02.18.02:948][847]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.05-02.18.02:972][847]LogInit: FAudioDevice initialized.
+[2020.09.05-02.18.02:983][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-02.18.02:983][847]LogLoad: Game class is 'GameModeBase'
+[2020.09.05-02.18.02:985][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.05-10.18.02
+[2020.09.05-02.18.02:986][847]LogWorld: Bringing up level for play took: 0.002027
+[2020.09.05-02.18.02:986][847]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.09.05-02.18.02:988][847]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.05-02.18.02:991][847]LogScript: Warning: 已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:0190
+[2020.09.05-02.18.02:991][847]PIE: Error: 蓝图运行时错误："已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： 设置GraphEditor
+[2020.09.05-02.18.02:991][847]LogScript: Warning: 无访问
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:0190
+[2020.09.05-02.18.02:992][847]PIE: Error: 蓝图运行时错误："无访问"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： 设置GraphEditor
+[2020.09.05-02.18.02:992][847]LogScript: Warning: 已尝试指定到“无”
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:01A5
+[2020.09.05-02.18.02:992][847]PIE: Error: 蓝图运行时错误："已尝试指定到“无”"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： 设置GraphEditor
+[2020.09.05-02.18.02:992][847]LogScript: Warning: 已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:01D0
+[2020.09.05-02.18.02:992][847]PIE: Error: 蓝图运行时错误："已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： Add Button Options
+[2020.09.05-02.18.02:992][847]LogScript: Warning: 无访问
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:01D0
+[2020.09.05-02.18.02:992][847]PIE: Error: 蓝图运行时错误："无访问"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： Add Button Options
+[2020.09.05-02.18.02:992][847]LogScript: Warning: 已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:00A7
+[2020.09.05-02.18.02:992][847]PIE: Error: 蓝图运行时错误："已尝试访问缺失的属性 'None’。如果这是一个已打包/烘焙的版本，是否要尝试使用一个仅限编辑器的属性？"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： Add Button Options
+[2020.09.05-02.18.02:992][847]LogScript: Warning: 无访问
+	WBP_Navigation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WBP_Navigation_C_0
+	Function /Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C:ExecuteUbergraph_WBP_Navigation:00A7
+[2020.09.05-02.18.02:993][847]PIE: Error: 蓝图运行时错误："无访问"。 蓝图： WBP_Navigation 函数： Execute Ubergraph WBP Navigation 图表： EventGraph 节点： Add Button Options
+[2020.09.05-02.18.02:994][847]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间0.779
+[2020.09.05-02.18.02:994][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.18.05:111][ 88]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.18.05:111][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-02.18.05:111][ 88]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-02.18.05:140][ 88]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.05-02.18.05:148][ 88]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-02.18.05:157][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.05-02.18.05:157][ 88]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.18.05:246][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2020.09.05-02.18.05:302][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.09.05-02.19.00:221][504]BlueprintLog: New page: 编译WBP_Navigation
+[2020.09.05-02.19.00:227][504]LogBlueprint: Warning: [Compiler WBP_Navigation] 在'WBP_ClickWindowButton_C’中找不到名为"WBP_WindowOption\”的变量。
+请确保已针对  获得WBP_WindowOption  对'WBP_ClickWindowButton_C’进行了编译
+[2020.09.05-02.19.00:227][504]LogBlueprint: Warning: [Compiler WBP_Navigation] 在'WBP_ClickWindowButton_C’中找不到名为"WBP_WindowOption\”的变量。
+请确保已针对  获得WBP_WindowOption  对'WBP_ClickWindowButton_C’进行了编译
+[2020.09.05-02.19.00:227][504]LogBlueprint: Error: [Compiler WBP_Navigation] 未能在“/Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C”中找到和 WBP Window Option 相关的属性
+[2020.09.05-02.19.00:227][504]LogBlueprint: Error: [Compiler WBP_Navigation] 未能在“/Game/ui/UI_NavigationWindows/WBP_Navigation.WBP_Navigation_C”中找到和 WBP Window Option 相关的属性
+[2020.09.05-02.19.00:309][504]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2020.09.05-02.19.34:514][399]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.19.34:928][399]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2020.09.05-02.19.36:804][607]LogTemp: Repeating last play command: 选中的视口
+[2020.09.05-02.19.36:885][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.19.36:885][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.05-02.19.36:885][607]BlueprintLog: Warning: 蓝图编译失败：  WBP_Navigation
+[2020.09.05-02.19.36:889][607]LogCustomDialog: Dialog displayed:
+[2020.09.05-02.19.38:507][607]LogSlate: Window '蓝图编译错误' being destroyed
+[2020.09.05-02.19.40:865][883]LogSlate: Window '消息日志' being destroyed
+[2020.09.05-02.19.40:870][883]LogSlate: Window '消息日志' being destroyed
+[2020.09.05-02.21.38:714][899]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2020.09.05-02.21.38:715][899]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/WindowsOptions' took 0.089
+[2020.09.05-02.21.38:717][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ui/UI_NavigationWindows/WBP_Navigation] ([1] browsable assets)...
+[2020.09.05-02.21.38:717][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_NavigationWindows/WBP_Navigation]
+[2020.09.05-02.21.38:784][899]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_Navigation_Auto2586717664EFD6C868EEF2AA940396B6D.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Saved/Autosaves/Game/ui/UI_NavigationWindows/WBP_Navigation_Auto2.uasset'
+[2020.09.05-02.21.38:785][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ui/UI_NavigationWindows/WBP_ClickWindowButton] ([1] browsable assets)...
+[2020.09.05-02.21.38:785][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/ui/UI_NavigationWindows/WBP_ClickWindowButton]
+[2020.09.05-02.21.38:859][899]LogSavePackage: Moving 'E:/cyj/ue4test/yogurt.github/UITest/Saved/WBP_ClickWindowButton_Auto27BE98B42465993F152B885839CE86FC6.tmp' to 'E:/cyj/ue4test/yogurt.github/UITest/Saved/Autosaves/Game/ui/UI_NavigationWindows/WBP_ClickWindowButton_Auto2.uasset'
+[2020.09.05-02.21.38:863][899]LogFileHelpers: Auto-saving content packages took 0.147
+[2020.09.05-02.22.08:119][349]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.22.08:539][349]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2020.09.05-02.22.20:313][692]BlueprintLog: New page: 编译WBP_Navigation
+[2020.09.05-02.22.20:412][692]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2020.09.05-02.22.27:216][469]BlueprintLog: New page: 编译WBP_Navigation
+[2020.09.05-02.22.27:314][469]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2020.09.05-02.22.28:413][581]LogTemp: Repeating last play command: 选中的视口
+[2020.09.05-02.22.28:495][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.22.28:495][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.05-02.22.28:496][581]PIE: New page: PIE会话：WindowsOptions（2020年9月5日 下午6:22:28）
+[2020.09.05-02.22.28:496][581]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-02.22.28:499][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003095s)
+[2020.09.05-02.22.28:500][581]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.05-02.22.28:501][581]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2020.09.05-02.22.28:501][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.004808s)
+[2020.09.05-02.22.28:584][581]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.09.05-02.22.28:604][581]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.05-02.22.28:628][581]LogInit: FAudioDevice initialized.
+[2020.09.05-02.22.28:639][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-02.22.28:639][581]LogLoad: Game class is 'GameModeBase'
+[2020.09.05-02.22.28:641][581]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.05-10.22.28
+[2020.09.05-02.22.28:642][581]LogWorld: Bringing up level for play took: 0.001744
+[2020.09.05-02.22.28:642][581]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.09.05-02.22.28:644][581]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.05-02.22.28:666][581]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间0.451
+[2020.09.05-02.22.28:667][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.22.36:888][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.05-02.22.56:020][840]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.05-02.22.56:027][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.22.56:027][840]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-02.22.56:028][840]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-02.22.56:036][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.05-02.22.56:036][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.22.56:141][840]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2020.09.05-02.22.56:272][841]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.09.05-02.23.08:443][298]LogTemp: Repeating last play command: 选中的视口
+[2020.09.05-02.23.08:508][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.23.08:508][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.05-02.23.08:508][298]PIE: New page: PIE会话：WindowsOptions（2020年9月5日 下午6:23:08）
+[2020.09.05-02.23.08:509][298]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-02.23.08:512][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003095s)
+[2020.09.05-02.23.08:513][298]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.05-02.23.08:513][298]LogPlayLevel: PIE: World Init took: (0.001569s)
+[2020.09.05-02.23.08:513][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.004823s)
+[2020.09.05-02.23.08:603][298]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.09.05-02.23.08:623][298]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.05-02.23.08:647][298]LogInit: FAudioDevice initialized.
+[2020.09.05-02.23.08:657][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-02.23.08:658][298]LogLoad: Game class is 'GameModeBase'
+[2020.09.05-02.23.08:659][298]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.05-10.23.08
+[2020.09.05-02.23.08:660][298]LogWorld: Bringing up level for play took: 0.001768
+[2020.09.05-02.23.08:660][298]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.09.05-02.23.08:663][298]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.05-02.23.08:685][298]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间0.47
+[2020.09.05-02.23.08:685][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.23.11:581][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.23.11:582][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-02.23.11:582][625]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-02.23.11:611][625]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.05-02.23.11:618][625]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-02.23.11:627][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.05-02.23.11:627][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.23.11:729][625]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2020.09.05-02.23.11:757][626]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.09.05-02.23.17:385][224]LogTemp: Repeating last play command: 选中的视口
+[2020.09.05-02.23.17:449][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.23.17:449][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.05-02.23.17:449][224]PIE: New page: PIE会话：WindowsOptions（2020年9月5日 下午6:23:17）
+[2020.09.05-02.23.17:449][224]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-02.23.17:452][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003147s)
+[2020.09.05-02.23.17:454][224]LogAIModule: Creating AISystem for world WindowsOptions
+[2020.09.05-02.23.17:454][224]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2020.09.05-02.23.17:454][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WindowsOptions.WindowsOptions to /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions (0.004761s)
+[2020.09.05-02.23.17:544][224]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.09.05-02.23.17:564][224]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.05-02.23.17:587][224]LogInit: FAudioDevice initialized.
+[2020.09.05-02.23.17:597][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-02.23.17:597][224]LogLoad: Game class is 'GameModeBase'
+[2020.09.05-02.23.17:599][224]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WindowsOptions.WindowsOptions up for play (max tick rate 0) at 2020.09.05-10.23.17
+[2020.09.05-02.23.17:599][224]LogWorld: Bringing up level for play took: 0.001627
+[2020.09.05-02.23.17:600][224]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.09.05-02.23.17:601][224]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.05-02.23.17:623][224]PIE: /Game/Maps/UEDPIE_0_WindowsOptions在编辑器中运行的起始时间-0.592
+[2020.09.05-02.23.17:624][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.23.25:384][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.23.25:384][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.05-02.23.25:384][130]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_WindowsOptions
+[2020.09.05-02.23.25:414][130]LogSlate: Window 'UITest 游戏预览 Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.05-02.23.25:421][130]LogWorld: UWorld::CleanupWorld for WindowsOptions, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-02.23.25:432][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.05-02.23.25:432][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions' with GeneratedClass '/Game/Maps/WindowsOptions.WindowsOptions_C' with ClassGeneratedBy '/Game/Maps/WindowsOptions.WindowsOptions:PersistentLevel.WindowsOptions'
+[2020.09.05-02.23.25:533][130]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.09.05-02.23.25:561][131]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.09.05-02.23.25:992][170]LogHttp: Warning: 000002B6CEF93C40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14461677-48D5-16E0-9738-81AC3EEA6257%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=04484a2d4762d9fd97dddcbace2dbc81%7C65a314aab45f47b29111b0336801b92d%7Cd4c0e5c5-8484-461b-917e-623ef9deadfd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2020.09.05-02.23.25:992][170]LogHttp: Warning: 000002B6CEF93C40: request failed, libcurl error: 0 (No error)
+[2020.09.05-02.23.25:992][170]LogHttp: Warning: 000002B6CEF93C40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2b61419ff70 [can pipeline])
+[2020.09.05-02.23.25:993][170]LogHttp: Warning: 000002B6CEF93C40: libcurl info message cache 1 (Re-using existing connection! (#18) with host datarouter.ol.epicgames.com)
+[2020.09.05-02.23.25:993][170]LogHttp: Warning: 000002B6CEF93C40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.192.129.151) port 443 (#18))
+[2020.09.05-02.23.25:993][170]LogHttp: Warning: 000002B6CEF93C40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.09.05-02.23.25:993][170]LogHttp: Warning: 000002B6CEF93C40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.09.05-02.23.25:993][170]LogHttp: Warning: 000002B6CEF93C40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.09.05-02.23.25:993][170]LogHttp: Warning: 000002B6CEF93C40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.09.05-02.23.25:993][170]LogHttp: Warning: 000002B6CEF93C40: libcurl info message cache 7 (Closing connection 18)
+[2020.09.05-02.23.25:993][170]LogHttp: Warning: 000002B6CEF93C40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.09.05-02.23.25:993][170]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14461677-48D5-16E0-9738-81AC3EEA6257%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=04484a2d4762d9fd97dddcbace2dbc81%7C65a314aab45f47b29111b0336801b92d%7Cd4c0e5c5-8484-461b-917e-623ef9deadfd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.09.05-02.23.30:744][733]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.31:042][763]LogEditorTransaction: Undo 删除当前选项
+[2020.09.05-02.23.31:347][794]LogEditorTransaction: Undo 移动控件
+[2020.09.05-02.23.31:604][818]LogEditorTransaction: Undo 添加控件
+[2020.09.05-02.23.31:874][849]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.32:465][919]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.32:790][957]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.23.33:107][994]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.33:381][ 26]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.23.33:681][ 61]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.33:982][ 96]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.34:264][129]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.34:566][164]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.35:074][224]LogEditorTransaction: Undo 创建变更路线节点
+[2020.09.05-02.23.35:390][260]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.35:700][296]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.35:951][325]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.36:201][354]LogEditorTransaction: Undo 修改类引脚值
+[2020.09.05-02.23.36:519][391]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.36:728][415]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.37:002][447]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.37:212][471]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.37:462][500]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.23.37:680][525]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.37:855][545]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.38:088][572]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.38:322][599]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.38:564][627]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.23.38:823][657]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.39:073][686]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.23.39:306][713]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.39:557][742]LogEditorTransaction: Undo 重命名函数
+[2020.09.05-02.23.39:785][768]LogEditorTransaction: Undo 添加新函数
+[2020.09.05-02.23.40:002][793]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.40:219][818]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.40:443][844]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.40:675][871]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.23.40:884][895]LogEditorTransaction: Undo 删除当前选项
+[2020.09.05-02.23.41:085][918]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.41:335][947]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.41:527][969]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.41:718][991]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.23.41:942][ 17]LogEditorTransaction: Undo 删除当前选项
+[2020.09.05-02.23.42:135][ 39]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.42:351][ 64]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.42:552][ 87]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.42:751][110]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.42:950][133]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.43:134][154]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.23.43:343][178]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.23.43:535][200]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.23.43:735][223]LogEditorTransaction: Undo 删除当前选项
+[2020.09.05-02.23.43:952][248]LogEditorTransaction: Undo 修改参数类型
+[2020.09.05-02.23.44:144][270]LogEditorTransaction: Undo 删除当前选项
+[2020.09.05-02.23.44:343][293]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.23.44:552][317]LogEditorTransaction: Undo 变量切换
+[2020.09.05-02.23.44:761][341]LogEditorTransaction: Undo 移除控件
+[2020.09.05-02.23.44:763][341]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.44:962][364]LogEditorTransaction: Undo 编辑Top
+[2020.09.05-02.23.44:963][364]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.46:496][547]LogEditorTransaction: Undo 编辑Top
+[2020.09.05-02.23.46:497][547]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.46:714][572]LogEditorTransaction: Undo 编辑Size Rule
+[2020.09.05-02.23.46:715][572]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.47:075][614]LogEditorTransaction: Undo 编辑Bottom
+[2020.09.05-02.23.47:076][614]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.47:443][657]LogEditorTransaction: Undo 编辑Right
+[2020.09.05-02.23.47:444][657]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.48:479][780]LogEditorTransaction: Undo 调整控件大小
+[2020.09.05-02.23.48:480][780]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.50:606][ 34]LogEditorTransaction: Undo 移动控件
+[2020.09.05-02.23.50:608][ 34]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.51:125][ 95]LogEditorTransaction: Undo 移动控件
+[2020.09.05-02.23.51:127][ 95]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.53:343][360]LogEditorTransaction: Undo 移动控件
+[2020.09.05-02.23.53:345][360]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.53:979][435]LogEditorTransaction: Undo 添加控件
+[2020.09.05-02.23.53:982][435]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.57:231][824]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.23.57:232][824]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.57:239][824]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.23.57:703][824]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2020.09.05-02.24.07:023][900]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.07:023][900]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.24.08:233][ 40]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.08:233][ 40]LogEditorTransaction: Undo 重命名变量
+[2020.09.05-02.24.08:929][122]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.08:929][122]LogEditorTransaction: Undo 重命名变量
+[2020.09.05-02.24.09:494][188]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.09:494][188]LogEditorTransaction: Undo 添加变量
+[2020.09.05-02.24.09:855][230]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.09:856][230]LogEditorTransaction: Undo 添加变量
+[2020.09.05-02.24.09:857][230]LogBlueprint: Error: [Compiler SNormalButton] 结构 'UserDefinedStruct /Game/ui/UI_NavigationWindows/SNormalButton.SNormalButton’ 为空
+[2020.09.05-02.24.10:133][262]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.10:133][262]LogEditorTransaction: Undo 编辑G
+[2020.09.05-02.24.10:354][288]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.10:354][288]LogEditorTransaction: Undo 编辑B
+[2020.09.05-02.24.10:563][313]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.10:563][313]LogEditorTransaction: Undo 编辑G
+[2020.09.05-02.24.10:823][344]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.10:823][344]LogEditorTransaction: Undo 编辑R
+[2020.09.05-02.24.11:323][404]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.11:323][404]LogEditorTransaction: Undo 编辑G
+[2020.09.05-02.24.12:041][490]Cmd: TRANSACTION UNDO
+[2020.09.05-02.24.12:041][490]LogEditorTransaction: Undo 创建缺失的变量
+[2020.09.05-02.24.14:975][839]BlueprintLog: New page: 编译WBP_Navigation
+[2020.09.05-02.24.15:068][839]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2020.09.05-02.24.19:023][296]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.24.19:025][296]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.24.19:034][296]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.24.19:466][296]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2020.09.05-02.24.29:193][428]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.24.29:194][428]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.24.29:196][428]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.24.29:608][428]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2020.09.05-02.24.38:543][469]LogEditorTransaction: Undo 创建缺失的变量
+[2020.09.05-02.24.39:019][515]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.24.39:437][564]LogEditorTransaction: Undo 创建引脚连接
+[2020.09.05-02.24.39:788][605]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.24.40:147][647]LogEditorTransaction: Undo 移动节点
+[2020.09.05-02.24.40:479][686]LogEditorTransaction: Undo 粘贴剪切板内容
+[2020.09.05-02.24.40:847][728]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.24.41:289][780]LogEditorTransaction: Undo 添加节点
+[2020.09.05-02.24.41:689][827]LogEditorTransaction: Undo 编辑X
+[2020.09.05-02.24.42:091][874]LogEditorTransaction: Undo 移动控件
+[2020.09.05-02.24.42:466][918]LogEditorTransaction: Undo 移动控件
+[2020.09.05-02.24.42:808][958]LogEditorTransaction: Undo 移动控件
+[2020.09.05-02.24.43:022][983]LogEditorTransaction: Undo 粘贴剪切板内容
+[2020.09.05-02.24.43:240][  8]LogEditorTransaction: Undo 移除控件
+[2020.09.05-02.24.43:425][ 29]LogEditorTransaction: Undo 粘贴剪切板内容
+[2020.09.05-02.24.43:625][ 52]LogEditorTransaction: Undo 编辑Height Override
+[2020.09.05-02.24.43:849][ 77]LogEditorTransaction: Undo 编辑Width Override
+[2020.09.05-02.24.44:015][ 96]LogEditorTransaction: Undo Height Override编辑条件已修改
+[2020.09.05-02.24.44:523][155]LogEditorTransaction: Undo Width Override编辑条件已修改
+[2020.09.05-02.24.44:738][180]LogEditorTransaction: Undo 添加控件
+[2020.09.05-02.24.44:978][208]LogEditorTransaction: Undo 移除控件
+[2020.09.05-02.24.46:754][418]BlueprintLog: New page: 编译WBP_ClickWindowButton
+[2020.09.05-02.24.46:755][418]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.24.46:757][418]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.24.47:196][418]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2020.09.05-02.24.49:323][647]BlueprintLog: New page: 编译WBP_Navigation
+[2020.09.05-02.24.49:413][647]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2020.09.05-02.24.51:572][887]BlueprintLog: New page: 编译WBP_WindowOption
+[2020.09.05-02.24.51:574][887]LogBlueprint: Error: [Compiler WBP_ClickWindowButton] Internal Compiler Error: Tried to create a property WBP_WindowOption in scope SKEL_WBP_ClickWindowButton_C, but another object (ObjectProperty WBP_WindowOption) already exists there.
+[2020.09.05-02.24.51:588][887]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.09.05-02.24.51:588][887]LogWindows: Windows GetLastError: 操作成功完成。 (0)
